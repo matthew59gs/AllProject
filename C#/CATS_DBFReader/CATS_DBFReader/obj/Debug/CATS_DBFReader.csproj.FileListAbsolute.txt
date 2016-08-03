@@ -1,0 +1,9 @@
+d:\mydocuments\visual studio 2015\Projects\CATS_DBFReader\CATS_DBFReader\bin\Debug\CATS_DBFReader.exe.config
+d:\MyDocuments\Visual Studio 2015\Projects\CATS_DBFReader\CATS_DBFReader\bin\Debug\CATS_DBFReader.exe
+d:\MyDocuments\Visual Studio 2015\Projects\CATS_DBFReader\CATS_DBFReader\bin\Debug\CATS_DBFReader.pdb
+d:\MyDocuments\Visual Studio 2015\Projects\CATS_DBFReader\CATS_DBFReader\obj\Debug\CATS_DBFReader.csprojResolveAssemblyReference.cache
+d:\MyDocuments\Visual Studio 2015\Projects\CATS_DBFReader\CATS_DBFReader\obj\Debug\CATS_DBFReader.FormMain.resources
+d:\MyDocuments\Visual Studio 2015\Projects\CATS_DBFReader\CATS_DBFReader\obj\Debug\CATS_DBFReader.Properties.Resources.resources
+d:\MyDocuments\Visual Studio 2015\Projects\CATS_DBFReader\CATS_DBFReader\obj\Debug\CATS_DBFReader.csproj.GenerateResource.Cache
+d:\MyDocuments\Visual Studio 2015\Projects\CATS_DBFReader\CATS_DBFReader\obj\Debug\CATS_DBFReader.exe
+d:\MyDocuments\Visual Studio 2015\Projects\CATS_DBFReader\CATS_DBFReader\obj\Debug\CATS_DBFReader.pdb

@@ -1,0 +1,16 @@
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\bin\Debug\StockPriceMonitor.exe.config
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\bin\Debug\StockPriceMonitor.exe
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\bin\Debug\StockPriceMonitor.pdb
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\bin\Debug\log4net.dll
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\bin\Debug\MySql.Data.dll
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\bin\Debug\log4net.pdb
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\bin\Debug\log4net.xml
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\obj\Debug\StockPriceMonitor.csprojResolveAssemblyReference.cache
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\obj\Debug\StockPriceMonitor.FormMain.resources
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\obj\Debug\StockPriceMonitor.FormModify.resources
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\obj\Debug\StockPriceMonitor.Properties.Resources.resources
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\obj\Debug\StockPriceMonitor.Resource1.resources
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\obj\Debug\StockPriceMonitor.csproj.GenerateResource.Cache
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\obj\Debug\StockPriceMonitor.exe
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\obj\Debug\StockPriceMonitor.pdb
+d:\mydocuments\visual studio 2015\Projects\StockPriceMonitor\StockPriceMonitor\bin\Debug\WAPIWrapperCSharp.dll

@@ -1,0 +1,4986 @@
+
+ 
+记录时间：2016-06-22 14:15:25,501 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 14:15:25,566 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 14:15:25,992 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 14:15:30,760 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 14:15:31,321 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:15:46,366 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 14:15:46,368 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 14:15:46,369 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 14:15:46,371 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:15:46,372 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 14:15:46,372 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:12位交易编码
+
+ 
+
+ 
+记录时间：2016-06-22 14:15:46,373 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:15:46,674 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:16:01,411 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=2的摘要：
+.
++OK 1 ZC0223-LKtG5DyDW~2v90QTaTjlC6h
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.137])
+	by bizmx4.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:14 +0800
+X-QQ-FEAT: L56sKVVtKhTZfqOJ/0HOHEfI6EmP/tBgh824J/HvI3c=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc74R913W6WV3dUHEo+EKvFkl
+	EBHO4uVoDoRwtgs83lK6Yrj8Rx93wqi+wNRW9SQzkVekrN9DdIeEf4HO0xAiZf2d4RI0WMg
+	O/BTjVNcO8h5
+X-QQ-mid: bizmx6t1463994195t7cl1gzpw
+X-QQ-ORGSender: yumengxi@sdicfutures.com
+Received: from yumengxi?sdicfutures.com (unknown [192.168.167.238])
+	by regular1.263xmail.com (Postfix) with SMTP id 31758DCAF
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-263anti-spam:RES:Ip;KSV:0;BIG:0;ABS:1;DNS:0;ATT:1;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-12 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id 3344642C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-RL-SENDER:yumengxi@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.167.116
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<1d89a562433efbd72a631dda3df45609>
+X-ATTACHMENT-NUM:1
+X-SENDER:yumengxi@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-12 (unknown [192.168.167.116])
+	by smtp.263.net (Postfix) whith ESMTP id 14540TP63Y6;
+	Mon, 23 May 2016 17:03:11 +0800 (CST)
+Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <1666390165.673231.1463994192216.JavaMail.root@wmthree-12>
+Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_673230_1122502489.1463994192216"
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+------=_Part_673230_1122502489.1463994192216
+
+ 
+
+ 
+记录时间：2016-06-22 14:16:01,411 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 14:16:01,412 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 14:16:01,412 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:16:01,412 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+ 
+
+ 
+记录时间：2016-06-22 14:16:01,412 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:于梦溪<yumengxi@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:国投安信测试账号中金所格式_20160523
+
+ 
+
+ 
+记录时间：2016-06-22 14:16:01,412 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:16:01,714 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:16:02,916 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=3的摘要：
+Content-Transfer-Encoding: base64
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+.
+
+ 
+
+ 
+记录时间：2016-06-22 14:16:02,916 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：
+ 
+
+ 
+记录时间：2016-06-22 14:16:02,917 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:16:03,218 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=4的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:16:11,338 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=4的摘要：
++OK
+X-QQ-GoodBg: 1
+X-QQ-SSF: 00410000000000F0
+X-QQ-FEAT: DTni/y8B878weECoC6sZ++qx8qzijZw9eEYCY8L/DYE=
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 122.224.206.83
+X-QQ-STYLE: 
+X-QQ-mid: bizmailfree73t1463996172t9863
+From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+Subject: =?utf-8?B?6L2s5Y+R77ya562U5aSNOiDmlablkozotYTkuqdI?=
+ =?utf-8?B?UCBNb29uc2hvdCBIREkg6L+c56iL5Lqk5piT5bel?=
+ =?utf-8?B?5L2c56uZ5o6o6I2Q5pa55qGI?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_5742CF0C_092E46C8_26E0A8ED"
+Content-Transfer-Encoding: 8Bit
+Date: Mon, 23 May 2016 17:36:12 +0800
+X-Priority: 3
+Message-ID: <tencent_0D7FC01B7E461B971ABEB985@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+References: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+In-Reply-To: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+
+This is a multi-part message in MIME format.
+
+ 
+
+ 
+记录时间：2016-06-22 14:16:11,339 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:16:11,339 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:36:27,995 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 14:36:28,014 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 14:36:28,455 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 14:36:29,440 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 14:36:29,743 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:36:44,782 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 14:36:44,783 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 14:36:44,784 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 14:36:44,785 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:37:28,665 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 14:37:28,685 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 14:37:29,115 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 14:37:30,193 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 14:37:30,495 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:37:45,539 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 14:37:45,540 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 14:37:45,542 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 14:37:45,543 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:57:51,358 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 14:57:51,377 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 14:57:51,826 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 14:57:52,779 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 14:57:53,081 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:58:08,119 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:08,120 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 14:58:08,121 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 14:58:08,122 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:58:08,123 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 14:58:08,124 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:12位交易编码
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:08,124 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:58:08,425 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:58:23,162 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=2的摘要：
+.
++OK 1 ZC0223-LKtG5DyDW~2v90QTaTjlC6h
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.137])
+	by bizmx4.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:14 +0800
+X-QQ-FEAT: L56sKVVtKhTZfqOJ/0HOHEfI6EmP/tBgh824J/HvI3c=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc74R913W6WV3dUHEo+EKvFkl
+	EBHO4uVoDoRwtgs83lK6Yrj8Rx93wqi+wNRW9SQzkVekrN9DdIeEf4HO0xAiZf2d4RI0WMg
+	O/BTjVNcO8h5
+X-QQ-mid: bizmx6t1463994195t7cl1gzpw
+X-QQ-ORGSender: yumengxi@sdicfutures.com
+Received: from yumengxi?sdicfutures.com (unknown [192.168.167.238])
+	by regular1.263xmail.com (Postfix) with SMTP id 31758DCAF
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-263anti-spam:RES:Ip;KSV:0;BIG:0;ABS:1;DNS:0;ATT:1;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-12 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id 3344642C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-RL-SENDER:yumengxi@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.167.116
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<1d89a562433efbd72a631dda3df45609>
+X-ATTACHMENT-NUM:1
+X-SENDER:yumengxi@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-12 (unknown [192.168.167.116])
+	by smtp.263.net (Postfix) whith ESMTP id 14540TP63Y6;
+	Mon, 23 May 2016 17:03:11 +0800 (CST)
+Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <1666390165.673231.1463994192216.JavaMail.root@wmthree-12>
+Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_673230_1122502489.1463994192216"
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+------=_Part_673230_1122502489.1463994192216
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:23,163 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 14:58:23,164 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 14:58:23,165 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:58:23,166 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+ 
+
+ 
+记录时间：2016-06-22 14:58:23,166 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:于梦溪<yumengxi@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:国投安信测试账号中金所格式_20160523
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:23,167 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:58:23,468 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:58:24,672 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=3的摘要：
+Content-Transfer-Encoding: base64
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+.
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:24,672 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：
+ 
+
+ 
+记录时间：2016-06-22 14:58:24,672 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:58:24,973 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=4的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:58:33,097 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=4的摘要：
++OK
+X-QQ-GoodBg: 1
+X-QQ-SSF: 00410000000000F0
+X-QQ-FEAT: DTni/y8B878weECoC6sZ++qx8qzijZw9eEYCY8L/DYE=
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 122.224.206.83
+X-QQ-STYLE: 
+X-QQ-mid: bizmailfree73t1463996172t9863
+From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+Subject: =?utf-8?B?6L2s5Y+R77ya562U5aSNOiDmlablkozotYTkuqdI?=
+ =?utf-8?B?UCBNb29uc2hvdCBIREkg6L+c56iL5Lqk5piT5bel?=
+ =?utf-8?B?5L2c56uZ5o6o6I2Q5pa55qGI?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_5742CF0C_092E46C8_26E0A8ED"
+Content-Transfer-Encoding: 8Bit
+Date: Mon, 23 May 2016 17:36:12 +0800
+X-Priority: 3
+Message-ID: <tencent_0D7FC01B7E461B971ABEB985@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+References: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+In-Reply-To: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+
+This is a multi-part message in MIME format.
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:33,097 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:58:33,097 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:58:33,098 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?utf-8?B?6L2s5Y+R77ya562U5aSNOiDmlablkozotYTkuqdI?=
+ 
+
+ 
+记录时间：2016-06-22 14:58:33,098 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:36:12 +0800
+ 
+
+ 
+记录时间：2016-06-22 14:58:33,098 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:朱国斌<zhugb@dunhefund.com>
+To:沈旭欣<shenxx@dunhefund.com>高嵩<gaos@dunhefund.com>
+Subject:转发：答复: 敦和资产H
+Date:2016/5/23
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:33,098 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=4的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:58:33,399 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=5的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:58:44,827 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=5的摘要：
+------=_NextPart_5742CF0C_092E46C8_26E0A8ED
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_5742CF0C_092E46C8_7F847064";
+.
++OK 3 ZL0223-dPP9RJxT~U8NohFGqiqiE6h
++OK
+Received: from EXCH01.nawaa.com (unknown [122.224.197.24])
+	by bizmx3.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 09:08:20 +0800
+X-QQ-FEAT: g2xCNiO+KbDzwqmcvmppwvrRu2HuGxuq
+X-QQ-MAILINFO: NB12YnPY6xrZrUhZVMdaNAeWPq8aEAZp0xRlQt7sUWj63I9mVIxA6v8Zm
+	ww53zutJMvZpCRY8eqz1YrMbuWcE/6HS6b7BUbQEq0kfggXnI4RhEP0JBH8oPMThSNAUFbZ
+	kv1/b0qu/rMsu7bkOlOkEe8=
+X-QQ-mid: bizmx3t1464052100tzkz2ijwg
+X-QQ-ORGSender: xutuo@nawaa.com
+Received: from EXCH02.nawaa.com ([169.254.2.206]) by EXCH01.nawaa.com
+ ([169.254.1.244]) with mapi id 14.03.0123.003; Tue, 24 May 2016 09:08:19
+ +0800
+From: =?gb2312?B?0OzN2A==?= <xutuo@nawaa.com>
+To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+Subject: =?gb2312?B?NdTCMjO6xdXLtaU=?=
+Thread-Topic: =?gb2312?B?NdTCMjO6xdXLtaU=?=
+Thread-Index: AdG1WMDywd1nXjViTD+20lbsUhiHwQ==
+Date: Tue, 24 May 2016 01:08:18 +0000
+Message-ID: <7A2B245CB8F18949BFF85E560FD2AAFA9E9451@exch02.nawaa.com>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [115.238.106.190]
+Content-Type: multipart/mixed;
+	boundary="_004_7A2B245CB8F18949BFF85E560FD2AAFA9E9451exch02nawaacom_"
+MIME-Version: 1.0
+
+--_004_7A2B245CB8F18949BFF85E560FD2AAFA9E9451exch02nawaacom_
+Content-Type: multipart/alternative;
+	boundary="_000_7A2B245CB8F18949BFF85E560FD2AAFA9E9451exch02nawaacom_"
+
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:44,827 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?gb2312?B?0OzN2A==?= <xutuo@nawaa.com>
+ 
+
+ 
+记录时间：2016-06-22 14:58:44,827 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:58:44,828 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?NdTCMjO6xdXLtaU=?=
+ 
+
+ 
+记录时间：2016-06-22 14:58:44,828 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 24 May 2016 01:08:18 +0000
+ 
+
+ 
+记录时间：2016-06-22 14:58:44,828 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:徐拓<xutuo@nawaa.com>
+To:gaos@dunhefund.com <gaos@dunhefund.com>
+Subject:5月23号账单
+Date:2016/5/24
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:44,828 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=5的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:58:45,130 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=6的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:58:56,560 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=6的摘要：
+.
++OK 4 ZC0924-rSqsVIwl5lATgjFmy1kFO6h
++OK
+Received: from Spam.starfutures.com.cn (unknown [210.21.207.218])
+	by bizmx5.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 10:09:34 +0800
+X-QQ-SPAM: true
+X-QQ-FEAT: 2juapNOk367n7USPKEimyfOqwSELWe+DU8gIaF8gO3U=
+X-QQ-MAILINFO: MhnJM8dXNV2ZvpvZsxKyXALml2CFFuYV6epp8yIppzrvaNbqwiEd7mdn/
+	cS0dFPPy+f0zAAwKfn7pCfF/+PcBOC0mnuOkEcqv1kCYNrDpbrPJUcCqlrSFUmZx7Wyo1dg
+	faU8/e7vJWMcIDvwYoPlVsb8bcQ5GVfFYKsl1gAeXxOQPcJIuFzywwE=
+X-QQ-mid: bizmx9t1464055774t41bm30ab
+X-QQ-ORGSender: zhangjf@starfutures.com.cn
+Received: from liyj ([183.16.74.217])
+	(authenticated bits=0)
+	by Spam.starfutures.com.cn with ESMTP id u4O2Jlxp024087;
+	Tue, 24 May 2016 10:19:48 +0800 (CST)
+	(envelope-from zhangjf@starfutures.com.cn)
+Date: Tue, 24 May 2016 10:08:46 +0800
+From: "zhangjf@starfutures.com.cn" <zhangjf@starfutures.com.cn>
+To: "leixf11654@hundsun.com" <leixf11654@hundsun.com>
+Cc: gaos <gaos@dunhefund.com>, =?GB2312?B?ufnP/tDQ?= <guoxh@hundsun.com>,
+        =?GB2312?B?1ty6o7e8?= <zhouhf06035@hundsun.com>,
+        =?GB2312?B?yM7R0tHS?= <renyy13276@hundsun.com>,
+        =?GB2312?B?s8LWpcHW?= <chenzl@hundsun.com>
+Subject: =?GB2312?B?u9i4tDogT3BsdXMxLjDPtc2z0+vO5b/zxtq79UNUUMGqsuKy4srUzeqzyQ==?=
+References: <20160520170335383704120@hundsun.com>
+X-Priority: 3
+X-Has-Attach: no
+X-Mailer: Foxmail 7, 2, 7, 21[cn]
+Mime-Version: 1.0
+Message-ID: <20160524100842804990285@starfutures.com.cn>
+Content-Type: multipart/related;
+	boundary="----=_001_NextPart101188463278_=----"
+X-DNSRBL: 
+X-MAIL:Spam.starfutures.com.cn u4O2Jlxp024087
+
+This is a multi-part message in MIME format.
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:56,561 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 24 May 2016 10:08:46 +0800
+ 
+
+ 
+记录时间：2016-06-22 14:58:56,561 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "zhangjf@starfutures.com.cn" <zhangjf@starfutures.com.cn>
+ 
+
+ 
+记录时间：2016-06-22 14:58:56,561 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "leixf11654@hundsun.com" <leixf11654@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-22 14:58:56,562 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?GB2312?B?u9i4tDogT3BsdXMxLjDPtc2z0+vO5b/zxtq79UNUUMGqsuKy4srUzeqzyQ==?=
+ 
+
+ 
+记录时间：2016-06-22 14:58:56,567 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/24
+From:zhangjf@starfutures.com.cn <zhangjf@starfutures.com.cn>
+To:leixf11654@hundsun.com <leixf11654@hundsun.com>
+Subject:回复: Oplus1.0系统与五矿期货CTP联测测试完成
+
+ 
+
+ 
+记录时间：2016-06-22 14:58:56,568 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=6的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:58:56,870 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=7的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:59:13,410 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=7的摘要：
+------=_001_NextPart101188463278_=----
+Content-Type: multipart/alternative;
+	boundary="----=_002_NextPart616531775323_=----"
+.
++OK 5 ZC0024-DItqX4cwrhhbiDtsCeNoA6h
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.137])
+	by bizmx2.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 11:23:29 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: MZYsY5tD/2HdbH773R0fA/IlKQrnJwVor/N5+D68XNFj7v+tSCKyG7r1S
+	Z4Yb8OTDSN1jZ5oXA6lFNmjdUVP56K5LNfzA/eQZx8e4KKOsSnrJ1ipx3iEB4dqGvjOFS99
+	Aw==
+X-QQ-mid: bizmx2t1464060209t0muunl03
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.218])
+	by regular1.263xmail.com (Postfix) with SMTP id EA3A9DB70
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 11:23:26 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id 877F2446
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 11:23:26 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<75816111fee881a70fb3be5f67fb09f4>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 22292S3Q0HP;
+	Tue, 24 May 2016 11:23:26 +0800 (CST)
+Date: Tue, 24 May 2016 11:23:26 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <1603421140.744628.1464060206041.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?5rWL6K+V572R57uc5bu25pe2?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 14:59:13,411 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 24 May 2016 11:23:26 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 14:59:13,411 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 14:59:13,412 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:59:13,412 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?5rWL6K+V572R57uc5bu25pe2?=
+ 
+
+ 
+记录时间：2016-06-22 14:59:13,413 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/24
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:测试网络延时
+
+ 
+
+ 
+记录时间：2016-06-22 14:59:13,413 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=7的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 14:59:13,714 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=8的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 14:59:23,647 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=8的摘要：
+.
++OK 6 ZC0224-oiUXEMgBO43OkyB3Mf6KX6h
++OK
+Received: from MAILGATE01.hundsun.com (unknown [60.191.25.163])
+	by bizmx5.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 16:32:59 +0800
+X-QQ-FEAT: QKTHmBZgKKUVws00QrXtoQqllaBTixTEDUw1vAgBlcQ=
+X-QQ-MAILINFO: NiJfp9+W6166U+o+7L0jfBwzbXbYJA+0ZDWD0/JyHJgaPbCW5VPBtKbKm
+	u7fCwEm2r0hJS+YyFSSHyaEQKNEjt5m4HaQe0uXj8z9Lf1f5WhIf2QVofR+FzfbbkbDj0ZR
+	z6qANFiyKpIelGPnQERAHt4SmwDSBeOHrA==
+X-QQ-mid: bizmx9t1464078779tdj114204
+X-QQ-ORGSender: service.tzyun@hundsun.com
+Received: from HSCASHUB01.hs.handsome.com.cn ([192.168.60.31]) by MAILGATE01.hundsun.com over TLS secured channel with Microsoft SMTPSVC(6.0.3790.1830);
+	 Tue, 24 May 2016 16:32:58 +0800
+Received: from iZ23p0n9zk6Z (121.41.139.159) by HSCASHUB01.hs.handsome.com.cn
+ (192.168.60.31) with Microsoft SMTP Server id 14.1.421.2; Tue, 24 May 2016
+ 16:32:57 +0800
+From: service <service.tzyun@hundsun.com>
+To: <gaos@dunhefund.com>
+Subject: =?gb2312?B?tti6zcn6svq7t76zsuLK1NXLusXU9rzTNbj2svrGtw==?=
+Date: Tue, 24 May 2016 16:32:58 +0800
+Message-ID: <004501d1b596$e02a85a0$a07f90e0$@hundsun.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0046_01D1B5D9.EE4DC5A0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdG1lqZqHpgMN1nnTLS+V7WNmeDi7A==
+Content-Language: zh-cn
+Return-Path: service.tzyun@hundsun.com
+X-Originating-IP: [121.41.139.159]
+X-OriginalArrivalTime: 24 May 2016 08:32:58.0836 (UTC) FILETIME=[E099E940:01D1B596]
+
+------=_NextPart_000_0046_01D1B5D9.EE4DC5A0
+
+ 
+
+ 
+记录时间：2016-06-22 14:59:23,647 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: service <service.tzyun@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-22 14:59:23,647 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 14:59:23,647 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?tti6zcn6svq7t76zsuLK1NXLusXU9rzTNbj2svrGtw==?=
+ 
+
+ 
+记录时间：2016-06-22 14:59:23,648 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 24 May 2016 16:32:58 +0800
+ 
+
+ 
+记录时间：2016-06-22 14:59:23,648 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:service <service.tzyun@hundsun.com>
+To:<gaos@dunhefund.com>
+Subject:敦和生产环境测试账号增加5个产品
+Date:2016/5/24
+
+ 
+
+ 
+记录时间：2016-06-22 14:59:23,648 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=8的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:05:24,648 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 15:05:36,543 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 15:05:36,561 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 15:05:37,015 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:05:38,463 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 15:05:38,766 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:05:53,797 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 15:05:53,798 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:05:53,799 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:05:53,800 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:05:53,802 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 15:05:53,802 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:12位交易编码
+
+ 
+
+ 
+记录时间：2016-06-22 15:05:53,802 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:05:56,911 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:06:11,638 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=2的摘要：
+.
++OK 1 ZC0223-LKtG5DyDW~2v90QTaTjlC6h
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.137])
+	by bizmx4.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:14 +0800
+X-QQ-FEAT: L56sKVVtKhTZfqOJ/0HOHEfI6EmP/tBgh824J/HvI3c=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc74R913W6WV3dUHEo+EKvFkl
+	EBHO4uVoDoRwtgs83lK6Yrj8Rx93wqi+wNRW9SQzkVekrN9DdIeEf4HO0xAiZf2d4RI0WMg
+	O/BTjVNcO8h5
+X-QQ-mid: bizmx6t1463994195t7cl1gzpw
+X-QQ-ORGSender: yumengxi@sdicfutures.com
+Received: from yumengxi?sdicfutures.com (unknown [192.168.167.238])
+	by regular1.263xmail.com (Postfix) with SMTP id 31758DCAF
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-263anti-spam:RES:Ip;KSV:0;BIG:0;ABS:1;DNS:0;ATT:1;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-12 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id 3344642C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-RL-SENDER:yumengxi@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.167.116
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<1d89a562433efbd72a631dda3df45609>
+X-ATTACHMENT-NUM:1
+X-SENDER:yumengxi@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-12 (unknown [192.168.167.116])
+	by smtp.263.net (Postfix) whith ESMTP id 14540TP63Y6;
+	Mon, 23 May 2016 17:03:11 +0800 (CST)
+Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <1666390165.673231.1463994192216.JavaMail.root@wmthree-12>
+Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_673230_1122502489.1463994192216"
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+------=_Part_673230_1122502489.1463994192216
+
+ 
+
+ 
+记录时间：2016-06-22 15:06:11,638 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:06:11,638 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:06:11,638 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:06:11,639 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+ 
+
+ 
+记录时间：2016-06-22 15:06:11,639 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:于梦溪<yumengxi@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:国投安信测试账号中金所格式_20160523
+
+ 
+
+ 
+记录时间：2016-06-22 15:06:11,639 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:06:12,654 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:06:13,857 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=3的摘要：
+Content-Transfer-Encoding: base64
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+.
+
+ 
+
+ 
+记录时间：2016-06-22 15:06:13,857 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：
+ 
+
+ 
+记录时间：2016-06-22 15:06:13,857 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:06:14,751 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=4的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:06:22,877 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=4的摘要：
++OK
+X-QQ-GoodBg: 1
+X-QQ-SSF: 00410000000000F0
+X-QQ-FEAT: DTni/y8B878weECoC6sZ++qx8qzijZw9eEYCY8L/DYE=
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 122.224.206.83
+X-QQ-STYLE: 
+X-QQ-mid: bizmailfree73t1463996172t9863
+From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+Subject: =?utf-8?B?6L2s5Y+R77ya562U5aSNOiDmlablkozotYTkuqdI?=
+ =?utf-8?B?UCBNb29uc2hvdCBIREkg6L+c56iL5Lqk5piT5bel?=
+ =?utf-8?B?5L2c56uZ5o6o6I2Q5pa55qGI?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_5742CF0C_092E46C8_26E0A8ED"
+Content-Transfer-Encoding: 8Bit
+Date: Mon, 23 May 2016 17:36:12 +0800
+X-Priority: 3
+Message-ID: <tencent_0D7FC01B7E461B971ABEB985@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+References: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+In-Reply-To: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+
+This is a multi-part message in MIME format.
+
+ 
+
+ 
+记录时间：2016-06-22 15:06:22,877 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:06:22,877 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:06:22,877 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?utf-8?B?6L2s5Y+R77ya562U5aSNOiDmlablkozotYTkuqdI?=
+ 
+
+ 
+记录时间：2016-06-22 15:06:22,878 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:36:12 +0800
+ 
+
+ 
+记录时间：2016-06-22 15:06:22,878 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:朱国斌<zhugb@dunhefund.com>
+To:沈旭欣<shenxx@dunhefund.com>高嵩<gaos@dunhefund.com>
+Subject:转发：答复: 敦和资产H
+Date:2016/5/23
+
+ 
+
+ 
+记录时间：2016-06-22 15:06:22,878 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=4的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:06:26,080 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=5的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:06:37,515 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=5的摘要：
+------=_NextPart_5742CF0C_092E46C8_26E0A8ED
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_5742CF0C_092E46C8_7F847064";
+.
++OK 3 ZL0223-dPP9RJxT~U8NohFGqiqiE6h
++OK
+Received: from EXCH01.nawaa.com (unknown [122.224.197.24])
+	by bizmx3.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 09:08:20 +0800
+X-QQ-FEAT: g2xCNiO+KbDzwqmcvmppwvrRu2HuGxuq
+X-QQ-MAILINFO: NB12YnPY6xrZrUhZVMdaNAeWPq8aEAZp0xRlQt7sUWj63I9mVIxA6v8Zm
+	ww53zutJMvZpCRY8eqz1YrMbuWcE/6HS6b7BUbQEq0kfggXnI4RhEP0JBH8oPMThSNAUFbZ
+	kv1/b0qu/rMsu7bkOlOkEe8=
+X-QQ-mid: bizmx3t1464052100tzkz2ijwg
+X-QQ-ORGSender: xutuo@nawaa.com
+Received: from EXCH02.nawaa.com ([169.254.2.206]) by EXCH01.nawaa.com
+ ([169.254.1.244]) with mapi id 14.03.0123.003; Tue, 24 May 2016 09:08:19
+ +0800
+From: =?gb2312?B?0OzN2A==?= <xutuo@nawaa.com>
+To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+Subject: =?gb2312?B?NdTCMjO6xdXLtaU=?=
+Thread-Topic: =?gb2312?B?NdTCMjO6xdXLtaU=?=
+Thread-Index: AdG1WMDywd1nXjViTD+20lbsUhiHwQ==
+Date: Tue, 24 May 2016 01:08:18 +0000
+Message-ID: <7A2B245CB8F18949BFF85E560FD2AAFA9E9451@exch02.nawaa.com>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [115.238.106.190]
+Content-Type: multipart/mixed;
+	boundary="_004_7A2B245CB8F18949BFF85E560FD2AAFA9E9451exch02nawaacom_"
+MIME-Version: 1.0
+
+--_004_7A2B245CB8F18949BFF85E560FD2AAFA9E9451exch02nawaacom_
+Content-Type: multipart/alternative;
+	boundary="_000_7A2B245CB8F18949BFF85E560FD2AAFA9E9451exch02nawaacom_"
+
+
+ 
+
+ 
+记录时间：2016-06-22 15:06:37,515 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?gb2312?B?0OzN2A==?= <xutuo@nawaa.com>
+ 
+
+ 
+记录时间：2016-06-22 15:06:37,516 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:06:37,516 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?NdTCMjO6xdXLtaU=?=
+ 
+
+ 
+记录时间：2016-06-22 15:06:37,516 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 24 May 2016 01:08:18 +0000
+ 
+
+ 
+记录时间：2016-06-22 15:06:37,516 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:徐拓<xutuo@nawaa.com>
+To:gaos@dunhefund.com <gaos@dunhefund.com>
+Subject:5月23号账单
+Date:2016/5/24
+
+ 
+
+ 
+记录时间：2016-06-22 15:06:37,516 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=5的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:06:39,292 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=6的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:06:50,717 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=6的摘要：
+.
++OK 4 ZC0924-rSqsVIwl5lATgjFmy1kFO6h
++OK
+Received: from Spam.starfutures.com.cn (unknown [210.21.207.218])
+	by bizmx5.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 10:09:34 +0800
+X-QQ-SPAM: true
+X-QQ-FEAT: 2juapNOk367n7USPKEimyfOqwSELWe+DU8gIaF8gO3U=
+X-QQ-MAILINFO: MhnJM8dXNV2ZvpvZsxKyXALml2CFFuYV6epp8yIppzrvaNbqwiEd7mdn/
+	cS0dFPPy+f0zAAwKfn7pCfF/+PcBOC0mnuOkEcqv1kCYNrDpbrPJUcCqlrSFUmZx7Wyo1dg
+	faU8/e7vJWMcIDvwYoPlVsb8bcQ5GVfFYKsl1gAeXxOQPcJIuFzywwE=
+X-QQ-mid: bizmx9t1464055774t41bm30ab
+X-QQ-ORGSender: zhangjf@starfutures.com.cn
+Received: from liyj ([183.16.74.217])
+	(authenticated bits=0)
+	by Spam.starfutures.com.cn with ESMTP id u4O2Jlxp024087;
+	Tue, 24 May 2016 10:19:48 +0800 (CST)
+	(envelope-from zhangjf@starfutures.com.cn)
+Date: Tue, 24 May 2016 10:08:46 +0800
+From: "zhangjf@starfutures.com.cn" <zhangjf@starfutures.com.cn>
+To: "leixf11654@hundsun.com" <leixf11654@hundsun.com>
+Cc: gaos <gaos@dunhefund.com>, =?GB2312?B?ufnP/tDQ?= <guoxh@hundsun.com>,
+        =?GB2312?B?1ty6o7e8?= <zhouhf06035@hundsun.com>,
+        =?GB2312?B?yM7R0tHS?= <renyy13276@hundsun.com>,
+        =?GB2312?B?s8LWpcHW?= <chenzl@hundsun.com>
+Subject: =?GB2312?B?u9i4tDogT3BsdXMxLjDPtc2z0+vO5b/zxtq79UNUUMGqsuKy4srUzeqzyQ==?=
+References: <20160520170335383704120@hundsun.com>
+X-Priority: 3
+X-Has-Attach: no
+X-Mailer: Foxmail 7, 2, 7, 21[cn]
+Mime-Version: 1.0
+Message-ID: <20160524100842804990285@starfutures.com.cn>
+Content-Type: multipart/related;
+	boundary="----=_001_NextPart101188463278_=----"
+X-DNSRBL: 
+X-MAIL:Spam.starfutures.com.cn u4O2Jlxp024087
+
+This is a multi-part message in MIME format.
+
+ 
+
+ 
+记录时间：2016-06-22 15:06:50,717 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 24 May 2016 10:08:46 +0800
+ 
+
+ 
+记录时间：2016-06-22 15:06:50,717 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "zhangjf@starfutures.com.cn" <zhangjf@starfutures.com.cn>
+ 
+
+ 
+记录时间：2016-06-22 15:06:50,717 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "leixf11654@hundsun.com" <leixf11654@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-22 15:06:50,718 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?GB2312?B?u9i4tDogT3BsdXMxLjDPtc2z0+vO5b/zxtq79UNUUMGqsuKy4srUzeqzyQ==?=
+ 
+
+ 
+记录时间：2016-06-22 15:06:50,718 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/24
+From:zhangjf@starfutures.com.cn <zhangjf@starfutures.com.cn>
+To:leixf11654@hundsun.com <leixf11654@hundsun.com>
+Subject:回复: Oplus1.0系统与五矿期货CTP联测测试完成
+
+ 
+
+ 
+记录时间：2016-06-22 15:06:50,718 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=6的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:06:51,879 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=7的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:07:08,428 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=7的摘要：
+------=_001_NextPart101188463278_=----
+Content-Type: multipart/alternative;
+	boundary="----=_002_NextPart616531775323_=----"
+.
++OK 5 ZC0024-DItqX4cwrhhbiDtsCeNoA6h
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.137])
+	by bizmx2.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 11:23:29 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: MZYsY5tD/2HdbH773R0fA/IlKQrnJwVor/N5+D68XNFj7v+tSCKyG7r1S
+	Z4Yb8OTDSN1jZ5oXA6lFNmjdUVP56K5LNfzA/eQZx8e4KKOsSnrJ1ipx3iEB4dqGvjOFS99
+	Aw==
+X-QQ-mid: bizmx2t1464060209t0muunl03
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.218])
+	by regular1.263xmail.com (Postfix) with SMTP id EA3A9DB70
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 11:23:26 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id 877F2446
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 11:23:26 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<75816111fee881a70fb3be5f67fb09f4>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 22292S3Q0HP;
+	Tue, 24 May 2016 11:23:26 +0800 (CST)
+Date: Tue, 24 May 2016 11:23:26 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <1603421140.744628.1464060206041.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?5rWL6K+V572R57uc5bu25pe2?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 15:07:08,428 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 24 May 2016 11:23:26 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:07:08,428 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:07:08,428 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:07:08,429 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?5rWL6K+V572R57uc5bu25pe2?=
+ 
+
+ 
+记录时间：2016-06-22 15:07:08,429 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/24
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:测试网络延时
+
+ 
+
+ 
+记录时间：2016-06-22 15:07:08,429 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=7的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:07:24,753 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=8的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:07:34,757 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=8的摘要：
+.
++OK
+Received: from MAILGATE01.hundsun.com (unknown [60.191.25.163])
+	by bizmx5.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 16:32:59 +0800
+X-QQ-FEAT: QKTHmBZgKKUVws00QrXtoQqllaBTixTEDUw1vAgBlcQ=
+X-QQ-MAILINFO: NiJfp9+W6166U+o+7L0jfBwzbXbYJA+0ZDWD0/JyHJgaPbCW5VPBtKbKm
+	u7fCwEm2r0hJS+YyFSSHyaEQKNEjt5m4HaQe0uXj8z9Lf1f5WhIf2QVofR+FzfbbkbDj0ZR
+	z6qANFiyKpIelGPnQERAHt4SmwDSBeOHrA==
+X-QQ-mid: bizmx9t1464078779tdj114204
+X-QQ-ORGSender: service.tzyun@hundsun.com
+Received: from HSCASHUB01.hs.handsome.com.cn ([192.168.60.31]) by MAILGATE01.hundsun.com over TLS secured channel with Microsoft SMTPSVC(6.0.3790.1830);
+	 Tue, 24 May 2016 16:32:58 +0800
+Received: from iZ23p0n9zk6Z (121.41.139.159) by HSCASHUB01.hs.handsome.com.cn
+ (192.168.60.31) with Microsoft SMTP Server id 14.1.421.2; Tue, 24 May 2016
+ 16:32:57 +0800
+From: service <service.tzyun@hundsun.com>
+To: <gaos@dunhefund.com>
+Subject: =?gb2312?B?tti6zcn6svq7t76zsuLK1NXLusXU9rzTNbj2svrGtw==?=
+Date: Tue, 24 May 2016 16:32:58 +0800
+Message-ID: <004501d1b596$e02a85a0$a07f90e0$@hundsun.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0046_01D1B5D9.EE4DC5A0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdG1lqZqHpgMN1nnTLS+V7WNmeDi7A==
+Content-Language: zh-cn
+Return-Path: service.tzyun@hundsun.com
+X-Originating-IP: [121.41.139.159]
+X-OriginalArrivalTime: 24 May 2016 08:32:58.0836 (UTC) FILETIME=[E099E940:01D1B596]
+
+------=_NextPart_000_0046_01D1B5D9.EE4DC5A0
+
+ 
+
+ 
+记录时间：2016-06-22 15:07:34,757 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: service <service.tzyun@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-22 15:07:34,757 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:07:34,757 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?tti6zcn6svq7t76zsuLK1NXLusXU9rzTNbj2svrGtw==?=
+ 
+
+ 
+记录时间：2016-06-22 15:07:34,758 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 24 May 2016 16:32:58 +0800
+ 
+
+ 
+记录时间：2016-06-22 15:07:34,758 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:service <service.tzyun@hundsun.com>
+To:<gaos@dunhefund.com>
+Subject:敦和生产环境测试账号增加5个产品
+Date:2016/5/24
+
+ 
+
+ 
+记录时间：2016-06-22 15:07:41,119 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=8的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:16:16,860 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 15:16:16,880 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 15:16:17,311 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:16:18,669 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 15:16:18,971 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:16:34,009 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 15:16:34,010 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:16:34,011 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:16:34,012 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:16:34,013 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 15:16:34,013 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:12位交易编码
+
+ 
+
+ 
+记录时间：2016-06-22 15:16:34,013 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:16:38,449 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:18:28,717 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 15:18:28,718 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 15:18:29,119 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:18:30,022 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 15:18:30,324 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:18:45,366 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 15:18:45,366 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:18:45,366 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:18:45,367 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:18:45,367 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 15:18:45,367 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:12位交易编码
+
+ 
+
+ 
+记录时间：2016-06-22 15:18:45,367 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:18:45,669 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:20:50,472 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 15:20:50,493 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 15:20:50,917 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:20:51,827 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 15:20:52,130 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:21:07,217 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 15:21:07,219 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:21:07,220 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:21:07,222 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:21:07,223 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 15:21:07,224 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:12位交易编码
+
+ 
+
+ 
+记录时间：2016-06-22 15:21:07,224 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:21:07,526 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:21:22,264 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=2的摘要：
+.
++OK 1 ZC0223-LKtG5DyDW~2v90QTaTjlC6h
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.137])
+	by bizmx4.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:14 +0800
+X-QQ-FEAT: L56sKVVtKhTZfqOJ/0HOHEfI6EmP/tBgh824J/HvI3c=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc74R913W6WV3dUHEo+EKvFkl
+	EBHO4uVoDoRwtgs83lK6Yrj8Rx93wqi+wNRW9SQzkVekrN9DdIeEf4HO0xAiZf2d4RI0WMg
+	O/BTjVNcO8h5
+X-QQ-mid: bizmx6t1463994195t7cl1gzpw
+X-QQ-ORGSender: yumengxi@sdicfutures.com
+Received: from yumengxi?sdicfutures.com (unknown [192.168.167.238])
+	by regular1.263xmail.com (Postfix) with SMTP id 31758DCAF
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-263anti-spam:RES:Ip;KSV:0;BIG:0;ABS:1;DNS:0;ATT:1;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-12 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id 3344642C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-RL-SENDER:yumengxi@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.167.116
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<1d89a562433efbd72a631dda3df45609>
+X-ATTACHMENT-NUM:1
+X-SENDER:yumengxi@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-12 (unknown [192.168.167.116])
+	by smtp.263.net (Postfix) whith ESMTP id 14540TP63Y6;
+	Mon, 23 May 2016 17:03:11 +0800 (CST)
+Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <1666390165.673231.1463994192216.JavaMail.root@wmthree-12>
+Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_673230_1122502489.1463994192216"
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+------=_Part_673230_1122502489.1463994192216
+
+ 
+
+ 
+记录时间：2016-06-22 15:21:22,264 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:21:22,265 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:21:22,265 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:21:22,265 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+ 
+
+ 
+记录时间：2016-06-22 15:21:22,265 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:于梦溪<yumengxi@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:国投安信测试账号中金所格式_20160523
+
+ 
+
+ 
+记录时间：2016-06-22 15:21:22,266 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:22:52,029 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:22:53,234 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=3的摘要：
+Content-Transfer-Encoding: base64
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+.
+
+ 
+
+ 
+记录时间：2016-06-22 15:22:53,234 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：
+ 
+
+ 
+记录时间：2016-06-22 15:22:53,234 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:24:53,728 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 15:24:53,745 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 15:24:54,169 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:24:55,073 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 15:24:55,375 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:25:10,417 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 15:25:10,419 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:25:10,421 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:25:10,422 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:25:10,424 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 15:25:10,424 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:12位交易编码
+
+ 
+
+ 
+记录时间：2016-06-22 15:25:10,425 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:25:19,242 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:25:33,980 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=2的摘要：
+.
++OK 1 ZC0223-LKtG5DyDW~2v90QTaTjlC6h
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.137])
+	by bizmx4.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:14 +0800
+X-QQ-FEAT: L56sKVVtKhTZfqOJ/0HOHEfI6EmP/tBgh824J/HvI3c=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc74R913W6WV3dUHEo+EKvFkl
+	EBHO4uVoDoRwtgs83lK6Yrj8Rx93wqi+wNRW9SQzkVekrN9DdIeEf4HO0xAiZf2d4RI0WMg
+	O/BTjVNcO8h5
+X-QQ-mid: bizmx6t1463994195t7cl1gzpw
+X-QQ-ORGSender: yumengxi@sdicfutures.com
+Received: from yumengxi?sdicfutures.com (unknown [192.168.167.238])
+	by regular1.263xmail.com (Postfix) with SMTP id 31758DCAF
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-263anti-spam:RES:Ip;KSV:0;BIG:0;ABS:1;DNS:0;ATT:1;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-12 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id 3344642C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-RL-SENDER:yumengxi@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.167.116
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<1d89a562433efbd72a631dda3df45609>
+X-ATTACHMENT-NUM:1
+X-SENDER:yumengxi@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-12 (unknown [192.168.167.116])
+	by smtp.263.net (Postfix) whith ESMTP id 14540TP63Y6;
+	Mon, 23 May 2016 17:03:11 +0800 (CST)
+Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <1666390165.673231.1463994192216.JavaMail.root@wmthree-12>
+Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_673230_1122502489.1463994192216"
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+------=_Part_673230_1122502489.1463994192216
+
+ 
+
+ 
+记录时间：2016-06-22 15:25:33,980 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:25:33,980 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:25:33,980 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:25:33,981 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+ 
+
+ 
+记录时间：2016-06-22 15:25:33,981 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:于梦溪<yumengxi@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:国投安信测试账号中金所格式_20160523
+
+ 
+
+ 
+记录时间：2016-06-22 15:25:33,981 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:25:42,568 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:25:43,772 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=3的摘要：
+Content-Transfer-Encoding: base64
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+.
+
+ 
+
+ 
+记录时间：2016-06-22 15:25:43,772 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：
+ 
+
+ 
+记录时间：2016-06-22 15:25:43,772 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:25:56,288 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=4的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:26:04,399 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=4的摘要：
++OK
+X-QQ-GoodBg: 1
+X-QQ-SSF: 00410000000000F0
+X-QQ-FEAT: DTni/y8B878weECoC6sZ++qx8qzijZw9eEYCY8L/DYE=
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 122.224.206.83
+X-QQ-STYLE: 
+X-QQ-mid: bizmailfree73t1463996172t9863
+From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+Subject: =?utf-8?B?6L2s5Y+R77ya562U5aSNOiDmlablkozotYTkuqdI?=
+ =?utf-8?B?UCBNb29uc2hvdCBIREkg6L+c56iL5Lqk5piT5bel?=
+ =?utf-8?B?5L2c56uZ5o6o6I2Q5pa55qGI?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_5742CF0C_092E46C8_26E0A8ED"
+Content-Transfer-Encoding: 8Bit
+Date: Mon, 23 May 2016 17:36:12 +0800
+X-Priority: 3
+Message-ID: <tencent_0D7FC01B7E461B971ABEB985@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+References: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+In-Reply-To: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+
+This is a multi-part message in MIME format.
+
+ 
+
+ 
+记录时间：2016-06-22 15:26:04,399 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:26:04,399 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:26:04,399 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?utf-8?B?6L2s5Y+R77ya562U5aSNOiDmlablkozotYTkuqdI?=
+ 
+
+ 
+记录时间：2016-06-22 15:26:04,400 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:36:12 +0800
+ 
+
+ 
+记录时间：2016-06-22 15:26:04,400 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:朱国斌<zhugb@dunhefund.com>
+To:沈旭欣<shenxx@dunhefund.com>高嵩<gaos@dunhefund.com>
+Subject:转发：答复: 敦和资产H
+Date:2016/5/23
+
+ 
+
+ 
+记录时间：2016-06-22 15:26:04,400 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=4的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:26:13,975 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=5的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:26:25,404 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=5的摘要：
+------=_NextPart_5742CF0C_092E46C8_26E0A8ED
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_5742CF0C_092E46C8_7F847064";
+.
++OK 3 ZL0223-dPP9RJxT~U8NohFGqiqiE6h
++OK
+Received: from EXCH01.nawaa.com (unknown [122.224.197.24])
+	by bizmx3.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Tue, 24 May 2016 09:08:20 +0800
+X-QQ-FEAT: g2xCNiO+KbDzwqmcvmppwvrRu2HuGxuq
+X-QQ-MAILINFO: NB12YnPY6xrZrUhZVMdaNAeWPq8aEAZp0xRlQt7sUWj63I9mVIxA6v8Zm
+	ww53zutJMvZpCRY8eqz1YrMbuWcE/6HS6b7BUbQEq0kfggXnI4RhEP0JBH8oPMThSNAUFbZ
+	kv1/b0qu/rMsu7bkOlOkEe8=
+X-QQ-mid: bizmx3t1464052100tzkz2ijwg
+X-QQ-ORGSender: xutuo@nawaa.com
+Received: from EXCH02.nawaa.com ([169.254.2.206]) by EXCH01.nawaa.com
+ ([169.254.1.244]) with mapi id 14.03.0123.003; Tue, 24 May 2016 09:08:19
+ +0800
+From: =?gb2312?B?0OzN2A==?= <xutuo@nawaa.com>
+To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+Subject: =?gb2312?B?NdTCMjO6xdXLtaU=?=
+Thread-Topic: =?gb2312?B?NdTCMjO6xdXLtaU=?=
+Thread-Index: AdG1WMDywd1nXjViTD+20lbsUhiHwQ==
+Date: Tue, 24 May 2016 01:08:18 +0000
+Message-ID: <7A2B245CB8F18949BFF85E560FD2AAFA9E9451@exch02.nawaa.com>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [115.238.106.190]
+Content-Type: multipart/mixed;
+	boundary="_004_7A2B245CB8F18949BFF85E560FD2AAFA9E9451exch02nawaacom_"
+MIME-Version: 1.0
+
+--_004_7A2B245CB8F18949BFF85E560FD2AAFA9E9451exch02nawaacom_
+Content-Type: multipart/alternative;
+	boundary="_000_7A2B245CB8F18949BFF85E560FD2AAFA9E9451exch02nawaacom_"
+
+
+ 
+
+ 
+记录时间：2016-06-22 15:26:25,404 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?gb2312?B?0OzN2A==?= <xutuo@nawaa.com>
+ 
+
+ 
+记录时间：2016-06-22 15:26:25,404 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:26:25,404 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?NdTCMjO6xdXLtaU=?=
+ 
+
+ 
+记录时间：2016-06-22 15:26:25,405 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 24 May 2016 01:08:18 +0000
+ 
+
+ 
+记录时间：2016-06-22 15:26:25,405 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:徐拓<xutuo@nawaa.com>
+To:gaos@dunhefund.com <gaos@dunhefund.com>
+Subject:5月23号账单
+Date:2016/5/24
+
+ 
+
+ 
+记录时间：2016-06-22 15:26:25,405 
+线程ID:[8] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=5的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:45:13,042 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 15:45:13,110 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 15:45:13,629 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:45:15,192 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 15:45:15,494 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:45:31,236 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 15:45:31,239 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:45:31,241 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:45:31,244 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:45:31,245 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 15:45:31,247 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:12位交易编码
+
+ 
+
+ 
+记录时间：2016-06-22 15:45:31,247 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:45:57,108 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:46:11,545 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=2的摘要：
++OK 1 ZC0223-LKtG5DyDW~2v90QTaTjlC6h
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.137])
+	by bizmx4.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:14 +0800
+X-QQ-FEAT: L56sKVVtKhTZfqOJ/0HOHEfI6EmP/tBgh824J/HvI3c=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc74R913W6WV3dUHEo+EKvFkl
+	EBHO4uVoDoRwtgs83lK6Yrj8Rx93wqi+wNRW9SQzkVekrN9DdIeEf4HO0xAiZf2d4RI0WMg
+	O/BTjVNcO8h5
+X-QQ-mid: bizmx6t1463994195t7cl1gzpw
+X-QQ-ORGSender: yumengxi@sdicfutures.com
+Received: from yumengxi?sdicfutures.com (unknown [192.168.167.238])
+	by regular1.263xmail.com (Postfix) with SMTP id 31758DCAF
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-263anti-spam:RES:Ip;KSV:0;BIG:0;ABS:1;DNS:0;ATT:1;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-12 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id 3344642C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-RL-SENDER:yumengxi@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.167.116
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<1d89a562433efbd72a631dda3df45609>
+X-ATTACHMENT-NUM:1
+X-SENDER:yumengxi@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-12 (unknown [192.168.167.116])
+	by smtp.263.net (Postfix) whith ESMTP id 14540TP63Y6;
+	Mon, 23 May 2016 17:03:11 +0800 (CST)
+Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <1666390165.673231.1463994192216.JavaMail.root@wmthree-12>
+Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_673230_1122502489.1463994192216"
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+------=_Part_673230_1122502489.1463994192216
+
+ 
+
+ 
+记录时间：2016-06-22 15:46:11,546 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:46:11,546 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:46:11,547 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:46:11,547 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+ 
+
+ 
+记录时间：2016-06-22 15:46:11,547 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:于梦溪<yumengxi@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:国投安信测试账号中金所格式_20160523
+
+ 
+
+ 
+记录时间：2016-06-22 15:46:11,548 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:46:47,010 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:46:56,080 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=3的摘要：
++OK 2 ZC0223-62w7m0OEpRNRpRZBNykmf6h
++OK
+X-QQ-GoodBg: 1
+X-QQ-SSF: 00410000000000F0
+X-QQ-FEAT: DTni/y8B878weECoC6sZ++qx8qzijZw9eEYCY8L/DYE=
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 122.224.206.83
+X-QQ-STYLE: 
+X-QQ-mid: bizmailfree73t1463996172t9863
+From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+Subject: =?utf-8?B?6L2s5Y+R77ya562U5aSNOiDmlablkozotYTkuqdI?=
+ =?utf-8?B?UCBNb29uc2hvdCBIREkg6L+c56iL5Lqk5piT5bel?=
+ =?utf-8?B?5L2c56uZ5o6o6I2Q5pa55qGI?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_5742CF0C_092E46C8_26E0A8ED"
+Content-Transfer-Encoding: 8Bit
+Date: Mon, 23 May 2016 17:36:12 +0800
+X-Priority: 3
+Message-ID: <tencent_0D7FC01B7E461B971ABEB985@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+References: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+In-Reply-To: <000001d1b4d4$b8889400$2999bc00$@fanyakeji.com>
+
+This is a multi-part message in MIME format.
+
+ 
+
+ 
+记录时间：2016-06-22 15:46:56,080 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:46:56,081 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:46:56,081 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?utf-8?B?6L2s5Y+R77ya562U5aSNOiDmlablkozotYTkuqdI?=
+ 
+
+ 
+记录时间：2016-06-22 15:46:56,082 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:36:12 +0800
+ 
+
+ 
+记录时间：2016-06-22 15:46:56,082 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:朱国斌<zhugb@dunhefund.com>
+To:沈旭欣<shenxx@dunhefund.com>高嵩<gaos@dunhefund.com>
+Subject:转发：答复: 敦和资产H
+Date:2016/5/23
+
+ 
+
+ 
+记录时间：2016-06-22 15:46:56,082 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:56:32,497 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-22 15:56:32,516 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-22 15:56:33,027 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:56:33,028 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:user gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:56:33,617 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[user]:+OK
+ 
+
+ 
+记录时间：2016-06-22 15:56:33,618 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:pass *
+ 
+
+ 
+记录时间：2016-06-22 15:56:34,007 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[pass]:+OK
+ 
+
+ 
+记录时间：2016-06-22 15:56:34,308 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取62封邮件
+ 
+
+ 
+记录时间：2016-06-22 15:56:34,309 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:noop
+ 
+
+ 
+记录时间：2016-06-22 15:56:34,668 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[noop]+OK
+ 
+
+ 
+记录时间：2016-06-22 15:56:34,668 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:56:34,669 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 1 5
+ 
+
+ 
+记录时间：2016-06-22 15:56:35,077 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-22 15:56:35,378 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from regular1.263xmail.com (unknown [211.150.99.135])
+ 
+
+ 
+记录时间：2016-06-22 15:56:35,679 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx1.qq.com (NewMx) with SMTP id 
+ 
+
+ 
+记录时间：2016-06-22 15:56:35,980 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+ 
+
+ 
+记录时间：2016-06-22 15:56:36,282 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+ 
+
+ 
+记录时间：2016-06-22 15:56:36,583 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+ 
+
+ 
+记录时间：2016-06-22 15:56:36,884 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+ 
+
+ 
+记录时间：2016-06-22 15:56:37,185 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	uA==
+ 
+
+ 
+记录时间：2016-06-22 15:56:37,486 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+ 
+
+ 
+记录时间：2016-06-22 15:56:37,787 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: congyu@sdicfutures.com
+ 
+
+ 
+记录时间：2016-06-22 15:56:38,088 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+ 
+
+ 
+记录时间：2016-06-22 15:56:38,389 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+ 
+
+ 
+记录时间：2016-06-22 15:56:38,690 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:56:38,991 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+ 
+
+ 
+记录时间：2016-06-22 15:56:39,292 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MAIL-GRAY:0
+ 
+
+ 
+记录时间：2016-06-22 15:56:39,593 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MAIL-DELIVERY:1
+ 
+
+ 
+记录时间：2016-06-22 15:56:39,894 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-KSVirus-check:0
+ 
+
+ 
+记录时间：2016-06-22 15:56:40,195 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-ABS-CHECKED:1
+ 
+
+ 
+记录时间：2016-06-22 15:56:40,496 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-SKE-CHECKED:1
+ 
+
+ 
+记录时间：2016-06-22 15:56:40,797 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-ADDR-CHECKED:0
+ 
+
+ 
+记录时间：2016-06-22 15:56:41,098 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+ 
+
+ 
+记录时间：2016-06-22 15:56:41,399 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+ 
+
+ 
+记录时间：2016-06-22 15:56:41,700 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:56:42,001 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-RL-SENDER:congyu@sdicfutures.com
+ 
+
+ 
+记录时间：2016-06-22 15:56:42,302 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-FST-TO:gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:56:42,603 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-SENDER-IP:192.168.166.104
+ 
+
+ 
+记录时间：2016-06-22 15:56:42,905 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-LOGIN-NAME:wmsendmail@net263.com
+ 
+
+ 
+记录时间：2016-06-22 15:56:43,206 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+ 
+
+ 
+记录时间：2016-06-22 15:56:43,507 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-ATTACHMENT-NUM:0
+ 
+
+ 
+记录时间：2016-06-22 15:56:43,808 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-SENDER:congyu@sdicfutures.com
+ 
+
+ 
+记录时间：2016-06-22 15:56:44,109 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-DNS-TYPE:0
+ 
+
+ 
+记录时间：2016-06-22 15:56:44,410 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from wmthree-6 (unknown [192.168.166.104])
+ 
+
+ 
+记录时间：2016-06-22 15:56:44,711 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+ 
+
+ 
+记录时间：2016-06-22 15:56:45,012 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:56:45,313 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:56:45,614 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:56:45,915 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:56:46,216 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+ 
+
+ 
+记录时间：2016-06-22 15:56:46,518 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 15:56:46,819 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-22 15:56:47,120 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: text/html;  charset=utf-8
+ 
+
+ 
+记录时间：2016-06-22 15:56:47,421 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Transfer-Encoding: base64
+ 
+
+ 
+记录时间：2016-06-22 15:56:47,722 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Send-Individually: 0
+ 
+
+ 
+记录时间：2016-06-22 15:56:48,023 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Reply-Previous-EmailId: 
+ 
+
+ 
+记录时间：2016-06-22 15:56:48,324 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Priority: 3
+ 
+
+ 
+记录时间：2016-06-22 15:56:48,625 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-22 15:56:48,926 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,227 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,528 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,829 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,830 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.135])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:39 +0800
+X-QQ-FEAT: N4pdkPNmNYeS3GQ+gc1XJf1orwvtaVbiGOd3bsEesUc=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc8ZAX2Bh9ixnFr4xmkVTAaYs
+	1W2U8VUKifpQ2jlZChhr5VG6boqUtwA2XbYUq4KnwPFX/zS1Y0tqo5QHIydhC69VfT6Y3RI
+	uA==
+X-QQ-mid: bizmx8t1463992299t9ho6k8s5
+X-QQ-ORGSender: congyu@sdicfutures.com
+Received: from congyu?sdicfutures.com (unknown [192.168.167.237])
+	by regular1.263xmail.com (Postfix) with SMTP id 480C61EAD9
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:37 +0800 (CST)
+X-263anti-spam:KSV:0;BIG:0;ABS:1;DNS:0;ATT:0;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-6 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id DE2B844C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 16:31:38 +0800 (CST)
+X-RL-SENDER:congyu@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.166.104
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<5009f1adc65004b94b8b51647e800ff1>
+X-ATTACHMENT-NUM:0
+X-SENDER:congyu@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-6 (unknown [192.168.166.104])
+	by smtp.263.net (Postfix) whith ESMTP id 861087434M;
+	Mon, 23 May 2016 16:31:38 +0800 (CST)
+Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <847046091.651216.1463992298805.JavaMail.xmail@wmthree-6>
+Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+MIME-Version: 1.0
+Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+cmRlci1jb2xsYXBzZTogY29sbGFwc2U7ZGlzcGxheTogdGFibGU7fS5jdXN0b21UYWJsZUNsYXNz
+TmFtZSB0ZCwgLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHRoIHtib3JkZXI6IDFweCBzb2xpZCAjZGRk
+O308L3N0eWxlPjxkaXYgaWQ9IndyaXRlLWN1c3RvbS13cml0ZSIgc3R5bGU9ImZvbnQtc2l6ZTog
+
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,833 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 16:31:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,834 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5Lib6Zuo?= <congyu@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,835 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,836 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?MTLkvY3kuqTmmJPnvJbnoIE=?=
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,836 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:丛雨<congyu@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:12位交易编码
+
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,836 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:56:49,837 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 1
+ 
+
+ 
+记录时间：2016-06-22 15:56:53,527 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:MTRweDsgZm9udC1mYW1pbHk6IOWui+S9kzsiPjxwIHN0eWxlPSJtYXJnaW46MHB4OyI+PHNwYW4g
+
+ 
+
+ 
+记录时间：2016-06-22 15:56:53,527 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:56:53,527 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 2 5
+ 
+
+ 
+记录时间：2016-06-22 15:56:53,828 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK 1 ZC0223-LKtG5DyDW~2v90QTaTjlC6h
+ 
+
+ 
+记录时间：2016-06-22 15:56:54,128 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-22 15:56:54,430 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from regular1.263xmail.com (unknown [211.150.99.137])
+ 
+
+ 
+记录时间：2016-06-22 15:56:54,731 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx4.qq.com (NewMx) with SMTP id 
+ 
+
+ 
+记录时间：2016-06-22 15:56:55,032 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:14 +0800
+ 
+
+ 
+记录时间：2016-06-22 15:56:55,334 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: L56sKVVtKhTZfqOJ/0HOHEfI6EmP/tBgh824J/HvI3c=
+ 
+
+ 
+记录时间：2016-06-22 15:56:55,634 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc74R913W6WV3dUHEo+EKvFkl
+ 
+
+ 
+记录时间：2016-06-22 15:56:55,935 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	EBHO4uVoDoRwtgs83lK6Yrj8Rx93wqi+wNRW9SQzkVekrN9DdIeEf4HO0xAiZf2d4RI0WMg
+ 
+
+ 
+记录时间：2016-06-22 15:56:56,236 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	O/BTjVNcO8h5
+ 
+
+ 
+记录时间：2016-06-22 15:56:56,537 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx6t1463994195t7cl1gzpw
+ 
+
+ 
+记录时间：2016-06-22 15:56:56,838 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: yumengxi@sdicfutures.com
+ 
+
+ 
+记录时间：2016-06-22 15:56:57,139 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from yumengxi?sdicfutures.com (unknown [192.168.167.238])
+ 
+
+ 
+记录时间：2016-06-22 15:56:57,441 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by regular1.263xmail.com (Postfix) with SMTP id 31758DCAF
+ 
+
+ 
+记录时间：2016-06-22 15:56:57,743 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:56:58,043 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-263anti-spam:RES:Ip;KSV:0;BIG:0;ABS:1;DNS:0;ATT:1;SPF:S;
+ 
+
+ 
+记录时间：2016-06-22 15:56:58,344 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MAIL-GRAY:0
+ 
+
+ 
+记录时间：2016-06-22 15:56:58,646 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MAIL-DELIVERY:1
+ 
+
+ 
+记录时间：2016-06-22 15:56:58,946 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-KSVirus-check:0
+ 
+
+ 
+记录时间：2016-06-22 15:56:59,247 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-ABS-CHECKED:1
+ 
+
+ 
+记录时间：2016-06-22 15:56:59,549 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-SKE-CHECKED:1
+ 
+
+ 
+记录时间：2016-06-22 15:56:59,849 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-ADDR-CHECKED:0
+ 
+
+ 
+记录时间：2016-06-22 15:57:00,150 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from wmthree-12 (localhost.localdomain [127.0.0.1])
+ 
+
+ 
+记录时间：2016-06-22 15:57:00,452 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by smtp.263.net (Postfix) with ESMTP id 3344642C
+ 
+
+ 
+记录时间：2016-06-22 15:57:00,752 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:57:01,054 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-RL-SENDER:yumengxi@sdicfutures.com
+ 
+
+ 
+记录时间：2016-06-22 15:57:01,355 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-FST-TO:gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-22 15:57:01,656 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-SENDER-IP:192.168.167.116
+ 
+
+ 
+记录时间：2016-06-22 15:57:01,956 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-LOGIN-NAME:wmsendmail@net263.com
+ 
+
+ 
+记录时间：2016-06-22 15:57:02,257 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-UNIQUE-TAG:<1d89a562433efbd72a631dda3df45609>
+ 
+
+ 
+记录时间：2016-06-22 15:57:02,558 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-ATTACHMENT-NUM:1
+ 
+
+ 
+记录时间：2016-06-22 15:57:02,860 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-SENDER:yumengxi@sdicfutures.com
+ 
+
+ 
+记录时间：2016-06-22 15:57:03,161 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-DNS-TYPE:0
+ 
+
+ 
+记录时间：2016-06-22 15:57:03,462 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from wmthree-12 (unknown [192.168.167.116])
+ 
+
+ 
+记录时间：2016-06-22 15:57:03,763 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by smtp.263.net (Postfix) whith ESMTP id 14540TP63Y6;
+ 
+
+ 
+记录时间：2016-06-22 15:57:04,064 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Mon, 23 May 2016 17:03:11 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:57:04,365 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:57:04,666 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:57:04,966 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:57:05,267 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <1666390165.673231.1463994192216.JavaMail.root@wmthree-12>
+ 
+
+ 
+记录时间：2016-06-22 15:57:05,568 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+ 
+
+ 
+记录时间：2016-06-22 15:57:05,870 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-22 15:57:06,171 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed; 
+ 
+
+ 
+记录时间：2016-06-22 15:57:06,471 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_Part_673230_1122502489.1463994192216"
+ 
+
+ 
+记录时间：2016-06-22 15:57:06,773 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Send-Individually: 0
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,074 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Reply-Previous-EmailId: 
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,374 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Priority: 3
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,676 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,977 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:------=_Part_673230_1122502489.1463994192216
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,977 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=2的摘要：
++OK 1 ZC0223-LKtG5DyDW~2v90QTaTjlC6h
++OK
+Received: from regular1.263xmail.com (unknown [211.150.99.137])
+	by bizmx4.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:14 +0800
+X-QQ-FEAT: L56sKVVtKhTZfqOJ/0HOHEfI6EmP/tBgh824J/HvI3c=
+X-QQ-MAILINFO: OcPOniyCAuvq01S03ww19HhetcfFoK8QGc74R913W6WV3dUHEo+EKvFkl
+	EBHO4uVoDoRwtgs83lK6Yrj8Rx93wqi+wNRW9SQzkVekrN9DdIeEf4HO0xAiZf2d4RI0WMg
+	O/BTjVNcO8h5
+X-QQ-mid: bizmx6t1463994195t7cl1gzpw
+X-QQ-ORGSender: yumengxi@sdicfutures.com
+Received: from yumengxi?sdicfutures.com (unknown [192.168.167.238])
+	by regular1.263xmail.com (Postfix) with SMTP id 31758DCAF
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-263anti-spam:RES:Ip;KSV:0;BIG:0;ABS:1;DNS:0;ATT:1;SPF:S;
+X-MAIL-GRAY:0
+X-MAIL-DELIVERY:1
+X-KSVirus-check:0
+X-ABS-CHECKED:1
+X-SKE-CHECKED:1
+X-ADDR-CHECKED:0
+Received: from wmthree-12 (localhost.localdomain [127.0.0.1])
+	by smtp.263.net (Postfix) with ESMTP id 3344642C
+	for <gaos@dunhefund.com>; Mon, 23 May 2016 17:03:11 +0800 (CST)
+X-RL-SENDER:yumengxi@sdicfutures.com
+X-FST-TO:gaos@dunhefund.com
+X-SENDER-IP:192.168.167.116
+X-LOGIN-NAME:wmsendmail@net263.com
+X-UNIQUE-TAG:<1d89a562433efbd72a631dda3df45609>
+X-ATTACHMENT-NUM:1
+X-SENDER:yumengxi@sdicfutures.com
+X-DNS-TYPE:0
+Received: from wmthree-12 (unknown [192.168.167.116])
+	by smtp.263.net (Postfix) whith ESMTP id 14540TP63Y6;
+	Mon, 23 May 2016 17:03:11 +0800 (CST)
+Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+Message-ID: <1666390165.673231.1463994192216.JavaMail.root@wmthree-12>
+Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_673230_1122502489.1463994192216"
+X-Send-Individually: 0
+X-Reply-Previous-EmailId: 
+X-Priority: 3
+
+------=_Part_673230_1122502489.1463994192216
+
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,977 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 23 May 2016 17:03:12 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,977 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?UTF-8?B?5LqO5qKm5rqq?= <yumengxi@sdicfutures.com>
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,978 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: =?UTF-8?B?Z2FvcyA=?= <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,978 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?UTF-8?B?5Zu95oqV5a6J5L+h5rWL6K+V6LSm5Y+35Lit6YeR5omA5qC85byPXzIwMTYwNTIz?=
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,978 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/5/23
+From:于梦溪<yumengxi@sdicfutures.com>
+To:gaos <gaos@dunhefund.com>
+Subject:国投安信测试账号中金所格式_20160523
+
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,978 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件ID
+ 
+
+ 
+记录时间：2016-06-22 15:57:07,978 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 2
+ 
+
+ 
+记录时间：2016-06-22 15:57:08,279 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:Content-Type: text/html;  charset=utf-8
+Content-Transfer-Encoding: base64
+
+PHN0eWxlPnRhYmxlLmN1c3RvbVRhYmxlQ2xhc3NOYW1lIHttYXJnaW4tYm90dG9tOiAxMHB4O2Jv
+
+ 
+
+ 
+记录时间：2016-06-22 15:57:08,279 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件摘要
+ 
+
+ 
+记录时间：2016-06-22 15:57:08,279 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 3 5
+ 
+
+ 
+记录时间：2016-06-22 15:57:08,581 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK 2 ZC0223-62w7m0OEpRNRpRZBNykmf6h
+ 
+
+ 
+记录时间：2016-06-22 15:58:11,122 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 

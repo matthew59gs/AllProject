@@ -1,0 +1,7 @@
+F:\sparkle\Code\C#\VS\WinForm\ToolMyself\SocketLink\SocketLink\bin\Release\SocketLink.exe
+F:\sparkle\Code\C#\VS\WinForm\ToolMyself\SocketLink\SocketLink\bin\Release\SocketLink.pdb
+F:\sparkle\Code\C#\VS\WinForm\ToolMyself\SocketLink\SocketLink\obj\x86\Release\SocketLink.FormMain.resources
+F:\sparkle\Code\C#\VS\WinForm\ToolMyself\SocketLink\SocketLink\obj\x86\Release\SocketLink.Properties.Resources.resources
+F:\sparkle\Code\C#\VS\WinForm\ToolMyself\SocketLink\SocketLink\obj\x86\Release\SocketLink.csproj.GenerateResource.Cache
+F:\sparkle\Code\C#\VS\WinForm\ToolMyself\SocketLink\SocketLink\obj\x86\Release\SocketLink.exe
+F:\sparkle\Code\C#\VS\WinForm\ToolMyself\SocketLink\SocketLink\obj\x86\Release\SocketLink.pdb

@@ -1,0 +1,4624 @@
+
+ 
+记录时间：2016-06-28 15:03:02,956 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-28 15:03:03,160 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-28 15:03:03,683 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接服务器pop.exmail.qq.com成功
+ 
+
+ 
+记录时间：2016-06-28 15:03:03,683 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:03,684 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:user gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:03,986 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[user]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:03:03,986 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:pass *
+ 
+
+ 
+记录时间：2016-06-28 15:03:04,287 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[pass]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:03:04,287 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录gaos@dunhefund.com成功
+ 
+
+ 
+记录时间：2016-06-28 15:03:04,590 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：从收取邮件31件邮件
+ 
+
+ 
+记录时间：2016-06-28 15:03:04,591 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:noop
+ 
+
+ 
+记录时间：2016-06-28 15:03:04,892 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[noop]+OK
+ 
+
+ 
+记录时间：2016-06-28 15:03:04,892 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:03:04,894 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 1 5
+ 
+
+ 
+记录时间：2016-06-28 15:03:05,318 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:03:05,619 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from 119.145.14.65 (unknown [119.145.14.65])
+ 
+
+ 
+记录时间：2016-06-28 15:03:05,920 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx3.qq.com (NewMx) with SMTP
+ 
+
+ 
+记录时间：2016-06-28 15:03:06,221 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	id ; Tue, 31 May 2016 22:03:25 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:06,522 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: 12OnMLX7MCzu7/70DwBuBeQ9b8Xb0AH3Xm0XvYKU4gk=
+ 
+
+ 
+记录时间：2016-06-28 15:03:06,823 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: OcPOniyCAuvq5AZ7TB4Uwt+LYqUshGeBcHR1qxGpYub4UME9wYMQmz+B6
+ 
+
+ 
+记录时间：2016-06-28 15:03:07,124 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	LUAcJ7MRs0Cp03YrpBLy9rh51HVsghGCay3Zekg7AAaGY6k188CblVlpPfI1Erx4nR03uhV
+ 
+
+ 
+记录时间：2016-06-28 15:03:07,425 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	ILvDe2QWHxAoecDzhSyqTRI=
+ 
+
+ 
+记录时间：2016-06-28 15:03:07,726 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx3t1464703415tdk3nhapo
+ 
+
+ 
+记录时间：2016-06-28 15:03:08,027 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: zhangshuhua@huawei.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:08,328 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from 119.145.14.65 (huawei.com [172.22.139.15])
+ 
+
+ 
+记录时间：2016-06-28 15:03:08,630 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmxp5 (qymail.qq.com) with SMTP id qLUPTzsV; Tue, 31 May 2016 22:03:24 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:08,931 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(envelope-from zhangshuhua@huawei.com)
+ 
+
+ 
+记录时间：2016-06-28 15:03:09,232 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-KK-mid:bizmxp5t1464703404t4c4k7sbe
+ 
+
+ 
+记录时间：2016-06-28 15:03:09,533 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from 172.24.1.47 (EHLO szxeml427-hub.china.huawei.com) ([172.24.1.47])
+ 
+
+ 
+记录时间：2016-06-28 15:03:09,834 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by szxrg02-dlp.huawei.com (MOS 4.3.7-GA FastPath queued)
+ 
+
+ 
+记录时间：2016-06-28 15:03:10,135 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	with ESMTP id DHZ18971;
+ 
+
+ 
+记录时间：2016-06-28 15:03:10,436 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Tue, 31 May 2016 21:39:48 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-28 15:03:10,737 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from SZXEML592-MBX.china.huawei.com ([169.254.3.188]) by
+ 
+
+ 
+记录时间：2016-06-28 15:03:11,038 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: szxeml427-hub.china.huawei.com ([10.82.67.182]) with mapi id 14.03.0235.001;
+ 
+
+ 
+记录时间：2016-06-28 15:03:11,339 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: Tue, 31 May 2016 21:38:58 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:11,640 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: Zhangshuhua <zhangshuhua@huawei.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:11,941 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: Zhangshuhua <zhangshuhua@huawei.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:12,242 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?utf-8?B?44CQ6K+36ZiF44CR44CK5pyN5Yqh5Zmo6L+e57q/44CL56ysMTg5IOacnyBL?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:12,543 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: =?utf-8?B?dW5MdW4rMTgwMDAgVjPpq5jlrrnplJnop6PlhrPmlrnmoYjvvIzliqDpgJ8=?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:12,844 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: =?utf-8?B?6YeR6J6N5qC45b+D5Lia5Yqh5byA5pS+6L2s5Z6L?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:13,145 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Topic: =?utf-8?B?44CQ6K+36ZiF44CR44CK5pyN5Yqh5Zmo6L+e57q/44CL56ysMTg5IOacnyBL?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:13,446 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: =?utf-8?B?dW5MdW4rMTgwMDAgVjPpq5jlrrnplJnop6PlhrPmlrnmoYjvvIzliqDpgJ8=?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:13,747 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: =?utf-8?B?6YeR6J6N5qC45b+D5Lia5Yqh5byA5pS+6L2s5Z6L?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:14,048 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Index: AQHRuyDtiyVwWMvfL0aZEIVVytw505/TDPUg
+ 
+
+ 
+记录时间：2016-06-28 15:03:14,349 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Tue, 31 May 2016 13:38:58 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:03:14,650 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <BC9827D5634E4B4F8C2934DAA83C289A1EBCFDA3@szxeml592-mbx.china.huawei.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:14,953 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:References: <000701d1bb20$e00a3d10$a01eb730$@com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:15,255 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:In-Reply-To: <000701d1bb20$e00a3d10$a01eb730$@com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:15,556 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Accept-Language: zh-CN, en-US
+ 
+
+ 
+记录时间：2016-06-28 15:03:15,857 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Language: zh-CN
+ 
+
+ 
+记录时间：2016-06-28 15:03:16,158 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-Has-Attach: yes
+ 
+
+ 
+记录时间：2016-06-28 15:03:16,459 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-TNEF-Correlator: 
+ 
+
+ 
+记录时间：2016-06-28 15:03:16,760 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:x-originating-ip: [10.45.20.235]
+ 
+
+ 
+记录时间：2016-06-28 15:03:17,062 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed;
+ 
+
+ 
+记录时间：2016-06-28 15:03:17,363 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_007_BC9827D5634E4B4F8C2934DAA83C289A1EBCFDA3szxeml592mbxchi_"
+ 
+
+ 
+记录时间：2016-06-28 15:03:17,664 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:03:17,965 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-CFilter-Loop: Reflected
+ 
+
+ 
+记录时间：2016-06-28 15:03:18,266 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Mirapoint-Virus-RAPID-Raw: score=unknown(0),
+ 
+
+ 
+记录时间：2016-06-28 15:03:18,567 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	refid=str=0001.0A020204.574D944A.028C,ss=1,re=0.000,recu=0.000,reip=0.000,cl=1,cld=1,fgs=0,
+ 
+
+ 
+记录时间：2016-06-28 15:03:18,869 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	ip=169.254.3.188,
+ 
+
+ 
+记录时间：2016-06-28 15:03:19,170 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	so=2013-06-18 04:22:30,
+ 
+
+ 
+记录时间：2016-06-28 15:03:19,471 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	dmn=2013-03-21 17:37:32
+ 
+
+ 
+记录时间：2016-06-28 15:03:19,772 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Mirapoint-Loop-Id: ef431f2d1eab4e1694c441accd2cd64c
+ 
+
+ 
+记录时间：2016-06-28 15:03:20,073 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:03:20,374 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--_007_BC9827D5634E4B4F8C2934DAA83C289A1EBCFDA3szxeml592mbxchi_
+ 
+
+ 
+记录时间：2016-06-28 15:03:20,675 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/related;
+ 
+
+ 
+记录时间：2016-06-28 15:03:20,976 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_006_BC9827D5634E4B4F8C2934DAA83C289A1EBCFDA3szxeml592mbxchi_";
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,278 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	type="multipart/alternative"
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,579 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,879 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,879 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=1的摘要：
++OK
+Received: from 119.145.14.65 (unknown [119.145.14.65])
+	by bizmx3.qq.com (NewMx) with SMTP
+	id ; Tue, 31 May 2016 22:03:25 +0800
+X-QQ-FEAT: 12OnMLX7MCzu7/70DwBuBeQ9b8Xb0AH3Xm0XvYKU4gk=
+X-QQ-MAILINFO: OcPOniyCAuvq5AZ7TB4Uwt+LYqUshGeBcHR1qxGpYub4UME9wYMQmz+B6
+	LUAcJ7MRs0Cp03YrpBLy9rh51HVsghGCay3Zekg7AAaGY6k188CblVlpPfI1Erx4nR03uhV
+	ILvDe2QWHxAoecDzhSyqTRI=
+X-QQ-mid: bizmx3t1464703415tdk3nhapo
+X-QQ-ORGSender: zhangshuhua@huawei.com
+Received: from 119.145.14.65 (huawei.com [172.22.139.15])
+	by bizmxp5 (qymail.qq.com) with SMTP id qLUPTzsV; Tue, 31 May 2016 22:03:24 +0800
+	(envelope-from zhangshuhua@huawei.com)
+X-KK-mid:bizmxp5t1464703404t4c4k7sbe
+Received: from 172.24.1.47 (EHLO szxeml427-hub.china.huawei.com) ([172.24.1.47])
+	by szxrg02-dlp.huawei.com (MOS 4.3.7-GA FastPath queued)
+	with ESMTP id DHZ18971;
+	Tue, 31 May 2016 21:39:48 +0800 (CST)
+Received: from SZXEML592-MBX.china.huawei.com ([169.254.3.188]) by
+ szxeml427-hub.china.huawei.com ([10.82.67.182]) with mapi id 14.03.0235.001;
+ Tue, 31 May 2016 21:38:58 +0800
+From: Zhangshuhua <zhangshuhua@huawei.com>
+To: Zhangshuhua <zhangshuhua@huawei.com>
+Subject: =?utf-8?B?44CQ6K+36ZiF44CR44CK5pyN5Yqh5Zmo6L+e57q/44CL56ysMTg5IOacnyBL?=
+ =?utf-8?B?dW5MdW4rMTgwMDAgVjPpq5jlrrnplJnop6PlhrPmlrnmoYjvvIzliqDpgJ8=?=
+ =?utf-8?B?6YeR6J6N5qC45b+D5Lia5Yqh5byA5pS+6L2s5Z6L?=
+Thread-Topic: =?utf-8?B?44CQ6K+36ZiF44CR44CK5pyN5Yqh5Zmo6L+e57q/44CL56ysMTg5IOacnyBL?=
+ =?utf-8?B?dW5MdW4rMTgwMDAgVjPpq5jlrrnplJnop6PlhrPmlrnmoYjvvIzliqDpgJ8=?=
+ =?utf-8?B?6YeR6J6N5qC45b+D5Lia5Yqh5byA5pS+6L2s5Z6L?=
+Thread-Index: AQHRuyDtiyVwWMvfL0aZEIVVytw505/TDPUg
+Date: Tue, 31 May 2016 13:38:58 +0000
+Message-ID: <BC9827D5634E4B4F8C2934DAA83C289A1EBCFDA3@szxeml592-mbx.china.huawei.com>
+References: <000701d1bb20$e00a3d10$a01eb730$@com>
+In-Reply-To: <000701d1bb20$e00a3d10$a01eb730$@com>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.45.20.235]
+Content-Type: multipart/mixed;
+	boundary="_007_BC9827D5634E4B4F8C2934DAA83C289A1EBCFDA3szxeml592mbxchi_"
+MIME-Version: 1.0
+X-CFilter-Loop: Reflected
+X-Mirapoint-Virus-RAPID-Raw: score=unknown(0),
+	refid=str=0001.0A020204.574D944A.028C,ss=1,re=0.000,recu=0.000,reip=0.000,cl=1,cld=1,fgs=0,
+	ip=169.254.3.188,
+	so=2013-06-18 04:22:30,
+	dmn=2013-03-21 17:37:32
+X-Mirapoint-Loop-Id: ef431f2d1eab4e1694c441accd2cd64c
+
+--_007_BC9827D5634E4B4F8C2934DAA83C289A1EBCFDA3szxeml592mbxchi_
+Content-Type: multipart/related;
+	boundary="_006_BC9827D5634E4B4F8C2934DAA83C289A1EBCFDA3szxeml592mbxchi_";
+	type="multipart/alternative"
+
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,880 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: Zhangshuhua <zhangshuhua@huawei.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,882 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: Zhangshuhua <zhangshuhua@huawei.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,883 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?utf-8?B?44CQ6K+36ZiF44CR44CK5pyN5Yqh5Zmo6L+e57q/44CL56ysMTg5IOacnyBL?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,883 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 31 May 2016 13:38:58 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,884 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:Zhangshuhua <zhangshuhua@huawei.com>
+To:Zhangshuhua <zhangshuhua@huawei.com>
+Subject:【请阅】《服务器连线》第189 期 K
+Date:2016/5/31
+
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,885 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=1的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:03:21,885 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 1
+ 
+
+ 
+记录时间：2016-06-28 15:03:25,012 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 1 ZL0231-I6QZH8demS9iizhv2gA7X6h
+ 
+
+ 
+记录时间：2016-06-28 15:03:25,013 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:03:25,013 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 2 5
+ 
+
+ 
+记录时间：2016-06-28 15:03:25,855 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:03:26,257 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from ip2.gtjas.com (unknown [114.141.166.9])
+ 
+
+ 
+记录时间：2016-06-28 15:03:26,559 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx1.qq.com (NewMx) with SMTP id 
+ 
+
+ 
+记录时间：2016-06-28 15:03:26,860 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Wed, 01 Jun 2016 09:23:37 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:27,161 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: PaVtCNWdYel+2RzxyReLfHtwHfvTYvcCoSUN+zi9lKU=
+ 
+
+ 
+记录时间：2016-06-28 15:03:27,462 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: NiJfp9+W6166bffuuJnZwZ4vC6HZYfeILMuOytsxkjXmMsJGiTSk9Fp6q
+ 
+
+ 
+记录时间：2016-06-28 15:03:27,763 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	M+LePBwh7QDqlrC6WdG7AHiW1yF/6LKSJ/8r2sQ6jYQUncilK9prqJAUPkwKPfZItoeId4s
+ 
+
+ 
+记录时间：2016-06-28 15:03:28,064 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	+A==
+ 
+
+ 
+记录时间：2016-06-28 15:03:28,365 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx8t1464744218t42xzmqys
+ 
+
+ 
+记录时间：2016-06-28 15:03:28,666 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: yiyi@gtjas.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:28,967 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from unknown (HELO 10.181.97.212) ([10.181.97.243])
+ 
+
+ 
+记录时间：2016-06-28 15:03:29,268 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:  by ip2.gtjas.com with ESMTP; 01 Jun 2016 09:30:52 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:29,569 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:In-Reply-To: <tencent_279C22706B774C901D210056@qq.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:29,870 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:30,172 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?GB2312?B?zeKyv73TyOuxuLC4vLCz0MW1tcTP4LnYuL28/g==?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:30,473 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:03:30,774 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-KeepSent: 4B4AE0CF:D6B9AB8E-48257FC5:000785F1;
+ 
+
+ 
+记录时间：2016-06-28 15:03:31,075 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: type=4; name=$KeepSent
+ 
+
+ 
+记录时间：2016-06-28 15:03:31,376 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Mailer: Lotus Notes Release 7.0.2 September 26, 2006
+ 
+
+ 
+记录时间：2016-06-28 15:03:31,677 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <OF4B4AE0CF.D6B9AB8E-ON48257FC5.000785F1-48257FC5.0007A6A7@gtjas.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:31,978 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: yiyi@gtjas.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:32,279 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Wed, 1 Jun 2016 09:23:35 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:32,580 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MIMETrack: Serialize by Router on SMTPServer2/GTJA(Release 9.0.1FP5 HF136|January 21, 2016) at
+ 
+
+ 
+记录时间：2016-06-28 15:03:32,881 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: 2016/06/01 09:23:35
+ 
+
+ 
+记录时间：2016-06-28 15:03:33,182 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed; boundary="=_mixed 0007A6A248257FC5_="
+ 
+
+ 
+记录时间：2016-06-28 15:03:33,483 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:03:33,784 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--=_mixed 0007A6A248257FC5_=
+ 
+
+ 
+记录时间：2016-06-28 15:03:34,085 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/alternative; boundary="=_alternative 0007A6A448257FC5_="
+ 
+
+ 
+记录时间：2016-06-28 15:03:34,386 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:03:34,687 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:03:34,989 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--=_alternative 0007A6A448257FC5_=
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,290 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,290 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=2的摘要：
++OK
+Received: from ip2.gtjas.com (unknown [114.141.166.9])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Wed, 01 Jun 2016 09:23:37 +0800
+X-QQ-FEAT: PaVtCNWdYel+2RzxyReLfHtwHfvTYvcCoSUN+zi9lKU=
+X-QQ-MAILINFO: NiJfp9+W6166bffuuJnZwZ4vC6HZYfeILMuOytsxkjXmMsJGiTSk9Fp6q
+	M+LePBwh7QDqlrC6WdG7AHiW1yF/6LKSJ/8r2sQ6jYQUncilK9prqJAUPkwKPfZItoeId4s
+	+A==
+X-QQ-mid: bizmx8t1464744218t42xzmqys
+X-QQ-ORGSender: yiyi@gtjas.com
+Received: from unknown (HELO 10.181.97.212) ([10.181.97.243])
+  by ip2.gtjas.com with ESMTP; 01 Jun 2016 09:30:52 +0800
+In-Reply-To: <tencent_279C22706B774C901D210056@qq.com>
+To: gaos@dunhefund.com
+Subject: =?GB2312?B?zeKyv73TyOuxuLC4vLCz0MW1tcTP4LnYuL28/g==?=
+MIME-Version: 1.0
+X-KeepSent: 4B4AE0CF:D6B9AB8E-48257FC5:000785F1;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 7.0.2 September 26, 2006
+Message-ID: <OF4B4AE0CF.D6B9AB8E-ON48257FC5.000785F1-48257FC5.0007A6A7@gtjas.com>
+From: yiyi@gtjas.com
+Date: Wed, 1 Jun 2016 09:23:35 +0800
+X-MIMETrack: Serialize by Router on SMTPServer2/GTJA(Release 9.0.1FP5 HF136|January 21, 2016) at
+ 2016/06/01 09:23:35
+Content-Type: multipart/mixed; boundary="=_mixed 0007A6A248257FC5_="
+
+--=_mixed 0007A6A248257FC5_=
+Content-Type: multipart/alternative; boundary="=_alternative 0007A6A448257FC5_="
+
+
+--=_alternative 0007A6A448257FC5_=
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,290 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,291 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?GB2312?B?zeKyv73TyOuxuLC4vLCz0MW1tcTP4LnYuL28/g==?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,291 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: yiyi@gtjas.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,291 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Wed, 1 Jun 2016 09:23:35 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,292 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：To:gaos@dunhefund.com
+Subject:外部接入备案及承诺的相关附件
+From:yiyi@gtjas.com
+Date:2016/6/1
+
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,292 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=2的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,292 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 2
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,594 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 2 ZC0901-C4yX6jILUOaohzRj7ZA7c6i
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,594 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,594 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 3 5
+ 
+
+ 
+记录时间：2016-06-28 15:03:35,895 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:03:36,196 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (unknown [60.191.25.163])
+ 
+
+ 
+记录时间：2016-06-28 15:03:36,497 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx1.qq.com (NewMx) with SMTP id 
+ 
+
+ 
+记录时间：2016-06-28 15:03:36,798 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Thu, 02 Jun 2016 09:05:07 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:37,099 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: PaVtCNWdYelc3EG4voQgmObd8kiY24czX1QWfYlJs6M=
+ 
+
+ 
+记录时间：2016-06-28 15:03:37,400 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: NywOAQYbLbVYOvim5MrqQ/g2EfYaTk/Wjlg61k8IXV0FG3JgoQNF2kDh2
+ 
+
+ 
+记录时间：2016-06-28 15:03:37,701 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	td6OgGR+MKNpn/m1bugWpCk7+lfdmYFvoosrhC8TQYY9AWOg7xn2S8SjkQ92DhfbfLPlyNp
+ 
+
+ 
+记录时间：2016-06-28 15:03:38,002 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	ZQ==
+ 
+
+ 
+记录时间：2016-06-28 15:03:38,303 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx8t1464829508ta8evkqqs
+ 
+
+ 
+记录时间：2016-06-28 15:03:38,604 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: renyy13276@hundsun.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:38,905 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+ 
+
+ 
+记录时间：2016-06-28 15:03:39,206 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by localhost (Email Security Appliance) with SMTP id F38C461CC7_74F8642B
+ 
+
+ 
+记录时间：2016-06-28 15:03:39,507 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Thu,  2 Jun 2016 01:05:06 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:03:39,807 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from HSCASHUB02.hs.handsome.com.cn (unknown [192.168.60.32])
+ 
+
+ 
+记录时间：2016-06-28 15:03:40,109 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+ 
+
+ 
+记录时间：2016-06-28 15:03:40,410 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+ 
+
+ 
+记录时间：2016-06-28 15:03:40,710 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id 9867C61C9E_74F8642F
+ 
+
+ 
+记录时间：2016-06-28 15:03:41,011 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Thu,  2 Jun 2016 01:05:06 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:03:41,311 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from HSMAILBOX02.hs.handsome.com.cn ([fe80::149c:9410:eedc:b0b3]) by
+ 
+
+ 
+记录时间：2016-06-28 15:03:41,612 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: HSCASHUB02.hs.handsome.com.cn ([::1]) with mapi id 14.01.0421.002; Thu, 2 Jun
+ 
+
+ 
+记录时间：2016-06-28 15:03:41,913 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: 2016 09:05:06 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:42,213 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: =?gb2312?B?yM7R0tHS?= <renyy13276@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:42,514 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: gaos <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:42,815 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:CC: =?gb2312?B?s8LWpcHW?= <chenzl@hundsun.com>, =?gb2312?B?1ty6o7e8?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:43,115 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	<zhouhf06035@hundsun.com>, =?gb2312?B?zsC4xObD?= <weigt13257@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:43,416 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?gb2312?B?tti6zb270tfUsbLiytTOyszius3Q6MfzLS2y+sa3sr+72Li0o6iyv7fWuPw=?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:43,717 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: =?gb2312?B?0MKjqQ==?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:44,017 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Topic: =?gb2312?B?tti6zb270tfUsbLiytTOyszius3Q6MfzLS2y+sa3sr+72Li0o6iyv7fWuPw=?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:44,318 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: =?gb2312?B?0MKjqQ==?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:44,619 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Index: AdG8asqhRdDG7xiiR9GwFvkw6c3gUw==
+ 
+
+ 
+记录时间：2016-06-28 15:03:44,919 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Thu, 2 Jun 2016 01:05:05 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:03:45,220 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <201606020905018306417@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:45,520 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:References: <2016041119305042586817@hundsun.com>,
+ 
+
+ 
+记录时间：2016-06-28 15:03:45,821 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: <201604121141011238226@hundsun.com>, <2016050920012381492811@hundsun.com>,
+ 
+
+ 
+记录时间：2016-06-28 15:03:46,123 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: <2016050920023501515012@hundsun.com>, <201605131418033582781@hundsun.com>,
+ 
+
+ 
+记录时间：2016-06-28 15:03:46,424 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: <201605131805333048538@hundsun.com>, <201605161511409023961@hundsun.com>,
+ 
+
+ 
+记录时间：2016-06-28 15:03:46,724 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: <201605251659577029011@hundsun.com>, <2016052617073179059711@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:47,025 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Accept-Language: zh-CN, en-US
+ 
+
+ 
+记录时间：2016-06-28 15:03:47,325 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Language: zh-CN
+ 
+
+ 
+记录时间：2016-06-28 15:03:47,635 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-Has-Attach: yes
+ 
+
+ 
+记录时间：2016-06-28 15:03:47,936 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-TNEF-Correlator:
+ 
+
+ 
+记录时间：2016-06-28 15:03:48,237 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:x-originating-ip: [192.168.224.34]
+ 
+
+ 
+记录时间：2016-06-28 15:03:48,538 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed;
+ 
+
+ 
+记录时间：2016-06-28 15:03:48,839 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_013_201606020905018306417hundsuncom_"
+ 
+
+ 
+记录时间：2016-06-28 15:03:49,140 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:03:49,440 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:03:49,741 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--_013_201606020905018306417hundsuncom_
+ 
+
+ 
+记录时间：2016-06-28 15:03:50,041 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/related;
+ 
+
+ 
+记录时间：2016-06-28 15:03:50,342 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_012_201606020905018306417hundsuncom_"; type="text/plain"
+ 
+
+ 
+记录时间：2016-06-28 15:03:50,642 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:03:50,943 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--_012_201606020905018306417hundsuncom_
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,244 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,244 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=3的摘要：
++OK
+Received: from spam01.hundsun.com (unknown [60.191.25.163])
+	by bizmx1.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Thu, 02 Jun 2016 09:05:07 +0800
+X-QQ-FEAT: PaVtCNWdYelc3EG4voQgmObd8kiY24czX1QWfYlJs6M=
+X-QQ-MAILINFO: NywOAQYbLbVYOvim5MrqQ/g2EfYaTk/Wjlg61k8IXV0FG3JgoQNF2kDh2
+	td6OgGR+MKNpn/m1bugWpCk7+lfdmYFvoosrhC8TQYY9AWOg7xn2S8SjkQ92DhfbfLPlyNp
+	ZQ==
+X-QQ-mid: bizmx8t1464829508ta8evkqqs
+X-QQ-ORGSender: renyy13276@hundsun.com
+Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+	by localhost (Email Security Appliance) with SMTP id F38C461CC7_74F8642B
+	for <gaos@dunhefund.com>; Thu,  2 Jun 2016 01:05:06 +0000 (GMT)
+Received: from HSCASHUB02.hs.handsome.com.cn (unknown [192.168.60.32])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id 9867C61C9E_74F8642F
+	for <gaos@dunhefund.com>; Thu,  2 Jun 2016 01:05:06 +0000 (GMT)
+Received: from HSMAILBOX02.hs.handsome.com.cn ([fe80::149c:9410:eedc:b0b3]) by
+ HSCASHUB02.hs.handsome.com.cn ([::1]) with mapi id 14.01.0421.002; Thu, 2 Jun
+ 2016 09:05:06 +0800
+From: =?gb2312?B?yM7R0tHS?= <renyy13276@hundsun.com>
+To: gaos <gaos@dunhefund.com>
+CC: =?gb2312?B?s8LWpcHW?= <chenzl@hundsun.com>, =?gb2312?B?1ty6o7e8?=
+	<zhouhf06035@hundsun.com>, =?gb2312?B?zsC4xObD?= <weigt13257@hundsun.com>
+Subject: =?gb2312?B?tti6zb270tfUsbLiytTOyszius3Q6MfzLS2y+sa3sr+72Li0o6iyv7fWuPw=?=
+ =?gb2312?B?0MKjqQ==?=
+Thread-Topic: =?gb2312?B?tti6zb270tfUsbLiytTOyszius3Q6MfzLS2y+sa3sr+72Li0o6iyv7fWuPw=?=
+ =?gb2312?B?0MKjqQ==?=
+Thread-Index: AdG8asqhRdDG7xiiR9GwFvkw6c3gUw==
+Date: Thu, 2 Jun 2016 01:05:05 +0000
+Message-ID: <201606020905018306417@hundsun.com>
+References: <2016041119305042586817@hundsun.com>,
+ <201604121141011238226@hundsun.com>, <2016050920012381492811@hundsun.com>,
+ <2016050920023501515012@hundsun.com>, <201605131418033582781@hundsun.com>,
+ <201605131805333048538@hundsun.com>, <201605161511409023961@hundsun.com>,
+ <201605251659577029011@hundsun.com>, <2016052617073179059711@hundsun.com>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.224.34]
+Content-Type: multipart/mixed;
+	boundary="_013_201606020905018306417hundsuncom_"
+MIME-Version: 1.0
+
+--_013_201606020905018306417hundsuncom_
+Content-Type: multipart/related;
+	boundary="_012_201606020905018306417hundsuncom_"; type="text/plain"
+
+--_012_201606020905018306417hundsuncom_
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,244 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?gb2312?B?yM7R0tHS?= <renyy13276@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,244 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: gaos <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,245 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?tti6zb270tfUsbLiytTOyszius3Q6MfzLS2y+sa3sr+72Li0o6iyv7fWuPw=?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,245 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Thu, 2 Jun 2016 01:05:05 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,246 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:任岩岩<renyy13276@hundsun.com>
+To:gaos <gaos@dunhefund.com>
+Subject:敦和交易员测试问题和需求--产品部回复（部分更
+Date:2016/6/2
+
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,246 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=3的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,246 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 3
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,547 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 3 ZL0902-fvm_O~Nl6F4RwnEm5zK2K6i
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,547 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=4的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,547 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 4 5
+ 
+
+ 
+记录时间：2016-06-28 15:03:51,849 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:03:52,150 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (unknown [60.191.25.163])
+ 
+
+ 
+记录时间：2016-06-28 15:03:52,451 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx4.qq.com (NewMx) with SMTP id 
+ 
+
+ 
+记录时间：2016-06-28 15:03:52,752 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Thu, 02 Jun 2016 09:47:51 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:53,053 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: PaVtCNWdYekGEnmxvRrCeZEIEzyKoV5aREXCiLFbSNk=
+ 
+
+ 
+记录时间：2016-06-28 15:03:53,354 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: NB12YnPY6xrZuDAZme9Tkge1/61HeKmnwMz385wkaqQsyM3JkUZXmT7G3
+ 
+
+ 
+记录时间：2016-06-28 15:03:53,654 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	n33vytgd2EPnFPu7UEKaStr3lezyqMM8Hm66JhpFORfdZb2BFGSF+5TDgDbHhB/FY4q1FjA
+ 
+
+ 
+记录时间：2016-06-28 15:03:53,956 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	bbpl+JYug7CfGFARDUiFCiLIHYrRQtXDsw==
+ 
+
+ 
+记录时间：2016-06-28 15:03:54,256 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx4t1464832071t6le7r8k9
+ 
+
+ 
+记录时间：2016-06-28 15:03:54,557 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: service.tzyun@hundsun.com
+ 
+
+ 
+记录时间：2016-06-28 15:03:54,858 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+ 
+
+ 
+记录时间：2016-06-28 15:03:55,160 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by localhost (Email Security Appliance) with SMTP id 7A365635AA_74F9046B;
+ 
+
+ 
+记录时间：2016-06-28 15:03:55,460 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Thu,  2 Jun 2016 01:47:50 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:03:55,762 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from HSCASHUB01.hs.handsome.com.cn (unknown [192.168.60.37])
+ 
+
+ 
+记录时间：2016-06-28 15:03:56,063 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+ 
+
+ 
+记录时间：2016-06-28 15:03:56,364 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+ 
+
+ 
+记录时间：2016-06-28 15:03:56,665 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id 56D8563576_74F9046F;
+ 
+
+ 
+记录时间：2016-06-28 15:03:56,966 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Thu,  2 Jun 2016 01:47:50 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:03:57,267 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from iZ23p0n9zk6Z (121.41.139.159) by HSCASHUB01.hs.handsome.com.cn
+ 
+
+ 
+记录时间：2016-06-28 15:03:57,568 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: (192.168.60.31) with Microsoft SMTP Server id 14.1.421.2; Thu, 2 Jun 2016
+ 
+
+ 
+记录时间：2016-06-28 15:03:57,869 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: 09:47:49 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:58,170 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: service <service.tzyun@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:58,471 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: <service.tzyun@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:58,772 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?gb2312?B?ob7W2NKqzOHKvqG/T3BsdXMxLjDUpLeisrzPtc2zsb7W3MvEo6gwNtTCMDI=?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:59,072 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	=?gb2312?B?yNUpvfjQ0M+1zbPOrLuk1N3No7f+zvG1xM2o1qog?=
+ 
+
+ 
+记录时间：2016-06-28 15:03:59,373 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Thu, 2 Jun 2016 09:47:49 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:03:59,673 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <000c01d1bc70$c527e460$4f77ad20$@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:03:59,979 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:04:00,280 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/related;
+ 
+
+ 
+记录时间：2016-06-28 15:04:00,582 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_NextPart_000_000D_01D1BCB3.D34B2460"
+ 
+
+ 
+记录时间：2016-06-28 15:04:00,883 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Mailer: Microsoft Outlook 14.0
+ 
+
+ 
+记录时间：2016-06-28 15:04:01,184 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Index: AdG8b/Cb6jzADfwvTdm2oHUC+iB04Q==
+ 
+
+ 
+记录时间：2016-06-28 15:04:01,485 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Language: zh-cn
+ 
+
+ 
+记录时间：2016-06-28 15:04:01,786 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Return-Path: service.tzyun@hundsun.com
+ 
+
+ 
+记录时间：2016-06-28 15:04:02,087 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Originating-IP: [121.41.139.159]
+ 
+
+ 
+记录时间：2016-06-28 15:04:02,388 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:02,689 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:------=_NextPart_000_000D_01D1BCB3.D34B2460
+ 
+
+ 
+记录时间：2016-06-28 15:04:02,990 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/alternative;
+ 
+
+ 
+记录时间：2016-06-28 15:04:03,291 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_NextPart_001_000E_01D1BCB3.D34B2460"
+ 
+
+ 
+记录时间：2016-06-28 15:04:03,593 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:03,894 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:------=_NextPart_001_000E_01D1BCB3.D34B2460
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,195 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,195 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=4的摘要：
++OK
+Received: from spam01.hundsun.com (unknown [60.191.25.163])
+	by bizmx4.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Thu, 02 Jun 2016 09:47:51 +0800
+X-QQ-FEAT: PaVtCNWdYekGEnmxvRrCeZEIEzyKoV5aREXCiLFbSNk=
+X-QQ-MAILINFO: NB12YnPY6xrZuDAZme9Tkge1/61HeKmnwMz385wkaqQsyM3JkUZXmT7G3
+	n33vytgd2EPnFPu7UEKaStr3lezyqMM8Hm66JhpFORfdZb2BFGSF+5TDgDbHhB/FY4q1FjA
+	bbpl+JYug7CfGFARDUiFCiLIHYrRQtXDsw==
+X-QQ-mid: bizmx4t1464832071t6le7r8k9
+X-QQ-ORGSender: service.tzyun@hundsun.com
+Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+	by localhost (Email Security Appliance) with SMTP id 7A365635AA_74F9046B;
+	Thu,  2 Jun 2016 01:47:50 +0000 (GMT)
+Received: from HSCASHUB01.hs.handsome.com.cn (unknown [192.168.60.37])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id 56D8563576_74F9046F;
+	Thu,  2 Jun 2016 01:47:50 +0000 (GMT)
+Received: from iZ23p0n9zk6Z (121.41.139.159) by HSCASHUB01.hs.handsome.com.cn
+ (192.168.60.31) with Microsoft SMTP Server id 14.1.421.2; Thu, 2 Jun 2016
+ 09:47:49 +0800
+From: service <service.tzyun@hundsun.com>
+To: <service.tzyun@hundsun.com>
+Subject: =?gb2312?B?ob7W2NKqzOHKvqG/T3BsdXMxLjDUpLeisrzPtc2zsb7W3MvEo6gwNtTCMDI=?=
+	=?gb2312?B?yNUpvfjQ0M+1zbPOrLuk1N3No7f+zvG1xM2o1qog?=
+Date: Thu, 2 Jun 2016 09:47:49 +0800
+Message-ID: <000c01d1bc70$c527e460$4f77ad20$@hundsun.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_000D_01D1BCB3.D34B2460"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdG8b/Cb6jzADfwvTdm2oHUC+iB04Q==
+Content-Language: zh-cn
+Return-Path: service.tzyun@hundsun.com
+X-Originating-IP: [121.41.139.159]
+
+------=_NextPart_000_000D_01D1BCB3.D34B2460
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_000E_01D1BCB3.D34B2460"
+
+------=_NextPart_001_000E_01D1BCB3.D34B2460
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,195 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: service <service.tzyun@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,196 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: <service.tzyun@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,196 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?ob7W2NKqzOHKvqG/T3BsdXMxLjDUpLeisrzPtc2zsb7W3MvEo6gwNtTCMDI=?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,196 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Thu, 2 Jun 2016 09:47:49 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,196 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:service <service.tzyun@hundsun.com>
+To:<service.tzyun@hundsun.com>
+Subject:【重要提示】Oplus1.0预发布系统本周四（06月02
+Date:2016/6/2
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,196 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=4的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,196 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 4
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,498 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 4 ZC0202-oyRseKAwUeeovA9YuroUZ6i
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,498 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=5的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,498 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 5 5
+ 
+
+ 
+记录时间：2016-06-28 15:04:04,800 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:04:05,101 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: zTA3baAq8L9/oUgUOtv6lC0HzFcFKBIMHYe9oP8RWcw/UQ5+CJod9ZD7v/Faj
+ 
+
+ 
+记录时间：2016-06-28 15:04:05,402 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Y8j9u6kX3yHi/HUWrHxqjXBR1McnOq6LPUyyvXY57oDdD3pX0NGeq2yIzWB3KWjuQZW+NOC
+ 
+
+ 
+记录时间：2016-06-28 15:04:05,704 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	PmXidV/fy+xgtG0/oOLBl467JVMdkHDMRNwLaMhSJbFRuBPFQhKuYfC6KmGUSeMcUB1njti
+ 
+
+ 
+记录时间：2016-06-28 15:04:06,005 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	fe3tKKcufeoapVcNqPB7sOo0G4lIWtMBgg7Sqn8yFcZ/+gLuVHBamgJJGROMucuA02yxEVj
+ 
+
+ 
+记录时间：2016-06-28 15:04:06,306 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	QIdUx0rmwl09Ayjs6tGFb0hnk=
+ 
+
+ 
+记录时间：2016-06-28 15:04:06,607 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-SSF: 00000000000000F000000000000000Z
+ 
+
+ 
+记录时间：2016-06-28 15:04:06,908 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-HAS-ATTACH: no
+ 
+
+ 
+记录时间：2016-06-28 15:04:07,209 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-BUSINESS-ORIGIN: 2
+ 
+
+ 
+记录时间：2016-06-28 15:04:07,510 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Originating-IP: 183.129.182.28
+ 
+
+ 
+记录时间：2016-06-28 15:04:07,811 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:In-Reply-To: <201605261344314879687@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:08,113 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:References: <201605241535194237551@dunhefund.com>, 
+ 
+
+ 
+记录时间：2016-06-28 15:04:08,414 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	<tencent_754BC62B015C14A23D59989F@qq.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:08,715 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	<201605261344314879687@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:09,016 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-STYLE: 
+ 
+
+ 
+记录时间：2016-06-28 15:04:09,317 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: webmail525t1464849895t3348562
+ 
+
+ 
+记录时间：2016-06-28 15:04:09,618 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: "=?gb18030?B?0MTB6Q==?=" <402700331@qq.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:09,919 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: "=?gb18030?B?Z2Fvcw==?=" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:10,220 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?gb18030?B?u9i4tKO6ILvYuLSjurbYus3KudPDuuPJ+k9QTFVT?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:10,521 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: =?gb18030?B?vfjQ0Mn6svq21L3T?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:10,822 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Mime-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:04:11,123 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/alternative;
+ 
+
+ 
+记录时间：2016-06-28 15:04:11,425 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_NextPart_574FD5E7_0B661858_2B5F4A27"
+ 
+
+ 
+记录时间：2016-06-28 15:04:11,727 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Transfer-Encoding: 8Bit
+ 
+
+ 
+记录时间：2016-06-28 15:04:12,028 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Thu, 2 Jun 2016 14:44:55 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:12,329 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Priority: 3
+ 
+
+ 
+记录时间：2016-06-28 15:04:12,630 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <tencent_681DB1492A91332E4E7225E0@qq.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:12,931 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MIME: TCMime 1.0 by Tencent
+ 
+
+ 
+记录时间：2016-06-28 15:04:13,232 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Mailer: QQMail 2.x
+ 
+
+ 
+记录时间：2016-06-28 15:04:13,533 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-Mailer: QQMail 2.x
+ 
+
+ 
+记录时间：2016-06-28 15:04:13,834 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ReplyHash: 3073712924
+ 
+
+ 
+记录时间：2016-06-28 15:04:14,135 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:14,436 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:This is a multi-part message in MIME format.
+ 
+
+ 
+记录时间：2016-06-28 15:04:14,737 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,038 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:------=_NextPart_574FD5E7_0B661858_2B5F4A27
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,339 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: text/plain;
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,640 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	charset="gb18030"
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,941 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,941 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=5的摘要：
++OK
+X-QQ-FEAT: zTA3baAq8L9/oUgUOtv6lC0HzFcFKBIMHYe9oP8RWcw/UQ5+CJod9ZD7v/Faj
+	Y8j9u6kX3yHi/HUWrHxqjXBR1McnOq6LPUyyvXY57oDdD3pX0NGeq2yIzWB3KWjuQZW+NOC
+	PmXidV/fy+xgtG0/oOLBl467JVMdkHDMRNwLaMhSJbFRuBPFQhKuYfC6KmGUSeMcUB1njti
+	fe3tKKcufeoapVcNqPB7sOo0G4lIWtMBgg7Sqn8yFcZ/+gLuVHBamgJJGROMucuA02yxEVj
+	QIdUx0rmwl09Ayjs6tGFb0hnk=
+X-QQ-SSF: 00000000000000F000000000000000Z
+X-HAS-ATTACH: no
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 183.129.182.28
+In-Reply-To: <201605261344314879687@dunhefund.com>
+References: <201605241535194237551@dunhefund.com>, 
+	<tencent_754BC62B015C14A23D59989F@qq.com>
+	<201605261344314879687@dunhefund.com>
+X-QQ-STYLE: 
+X-QQ-mid: webmail525t1464849895t3348562
+From: "=?gb18030?B?0MTB6Q==?=" <402700331@qq.com>
+To: "=?gb18030?B?Z2Fvcw==?=" <gaos@dunhefund.com>
+Subject: =?gb18030?B?u9i4tKO6ILvYuLSjurbYus3KudPDuuPJ+k9QTFVT?=
+ =?gb18030?B?vfjQ0Mn6svq21L3T?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_574FD5E7_0B661858_2B5F4A27"
+Content-Transfer-Encoding: 8Bit
+Date: Thu, 2 Jun 2016 14:44:55 +0800
+X-Priority: 3
+Message-ID: <tencent_681DB1492A91332E4E7225E0@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+X-QQ-ReplyHash: 3073712924
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_574FD5E7_0B661858_2B5F4A27
+Content-Type: text/plain;
+	charset="gb18030"
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,942 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "=?gb18030?B?0MTB6Q==?=" <402700331@qq.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,946 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "=?gb18030?B?Z2Fvcw==?=" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,947 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb18030?B?u9i4tKO6ILvYuLSjurbYus3KudPDuuPJ+k9QTFVT?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,947 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Thu, 2 Jun 2016 14:44:55 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,948 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:心灵<402700331@qq.com>
+To:gaos<gaos@dunhefund.com>
+Subject:回复： 回复：敦和使用恒生OPLUS
+Date:2016/6/2
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,949 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=5的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:04:15,949 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 5
+ 
+
+ 
+记录时间：2016-06-28 15:04:16,251 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 5 ZC1502-beoDXYVQWe~g2mk~cqF4V66
+ 
+
+ 
+记录时间：2016-06-28 15:04:16,251 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:noop
+ 
+
+ 
+记录时间：2016-06-28 15:04:16,552 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[noop]+OK
+ 
+
+ 
+记录时间：2016-06-28 15:04:16,552 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=11的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:04:16,553 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 11 5
+ 
+
+ 
+记录时间：2016-06-28 15:04:16,854 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:04:17,155 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (unknown [60.191.25.163])
+ 
+
+ 
+记录时间：2016-06-28 15:04:17,457 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx2.qq.com (NewMx) with SMTP id 
+ 
+
+ 
+记录时间：2016-06-28 15:04:17,758 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon, 06 Jun 2016 20:17:27 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:18,059 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: PaVtCNWdYekOMVItlfQ2RU/ug6zYTVXdr0Fb2eqQKXI=
+ 
+
+ 
+记录时间：2016-06-28 15:04:18,360 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: OOE9nCj+FdGKOYiHkMEcyZcMrKddcCpUpCjIAsbVVV8V6t0Cny/hID566
+ 
+
+ 
+记录时间：2016-06-28 15:04:18,661 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	mEXkWmnL6zAueyxiF3ggYPvnvGbu4lq30ayZrHaO3M+bHH7gWQG6tsJOi4+/7SfOHI2vNL4
+ 
+
+ 
+记录时间：2016-06-28 15:04:18,962 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	8KGSXmeYc1N7
+ 
+
+ 
+记录时间：2016-06-28 15:04:19,263 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx2t1465215447t3u2cbkz6
+ 
+
+ 
+记录时间：2016-06-28 15:04:19,564 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: yangzc11462@hundsun.com
+ 
+
+ 
+记录时间：2016-06-28 15:04:19,865 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+ 
+
+ 
+记录时间：2016-06-28 15:04:20,166 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by localhost (Email Security Appliance) with SMTP id 378A662084_75569D7B
+ 
+
+ 
+记录时间：2016-06-28 15:04:20,467 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:17:27 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:04:20,768 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from HSCASHUB02.hs.handsome.com.cn (unknown [192.168.60.32])
+ 
+
+ 
+记录时间：2016-06-28 15:04:21,070 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+ 
+
+ 
+记录时间：2016-06-28 15:04:21,370 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+ 
+
+ 
+记录时间：2016-06-28 15:04:21,671 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id 0AFC661AD8_75569D7F
+ 
+
+ 
+记录时间：2016-06-28 15:04:21,972 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:17:27 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:04:22,273 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from HSMAILBOX02.hs.handsome.com.cn ([fe80::149c:9410:eedc:b0b3]) by
+ 
+
+ 
+记录时间：2016-06-28 15:04:22,574 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: HSCASHUB02.hs.handsome.com.cn ([::1]) with mapi id 14.01.0421.002; Mon, 6 Jun
+ 
+
+ 
+记录时间：2016-06-28 15:04:22,875 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: 2016 20:17:26 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:23,176 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: =?gb2312?B?0e7Xv7PJ?= <yangzc11462@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:23,477 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:23,778 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?gb2312?B?16q3ojog?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:24,079 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Index: AQHRv96NIa+toMdziU+1NIVp/uPvp5/cWqMw
+ 
+
+ 
+记录时间：2016-06-28 15:04:24,380 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Mon, 6 Jun 2016 12:17:25 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:04:24,681 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACF@HSMAILBOX02.hs.handsome.com.cn>
+ 
+
+ 
+记录时间：2016-06-28 15:04:24,982 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:References: <201606061831208758359@cnzsqh.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:25,283 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:In-Reply-To: <201606061831208758359@cnzsqh.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:25,584 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Accept-Language: zh-CN, en-US
+ 
+
+ 
+记录时间：2016-06-28 15:04:25,885 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Language: zh-CN
+ 
+
+ 
+记录时间：2016-06-28 15:04:26,186 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-Has-Attach: yes
+ 
+
+ 
+记录时间：2016-06-28 15:04:26,487 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-TNEF-Correlator:
+ 
+
+ 
+记录时间：2016-06-28 15:04:26,788 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:x-originating-ip: [192.168.218.55]
+ 
+
+ 
+记录时间：2016-06-28 15:04:27,089 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed;
+ 
+
+ 
+记录时间：2016-06-28 15:04:27,390 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_004_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACFHSMAILBOX02hsha_"
+ 
+
+ 
+记录时间：2016-06-28 15:04:27,691 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:04:27,992 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:28,293 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--_004_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACFHSMAILBOX02hsha_
+ 
+
+ 
+记录时间：2016-06-28 15:04:28,594 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/alternative;
+ 
+
+ 
+记录时间：2016-06-28 15:04:28,895 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_000_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACFHSMAILBOX02hsha_"
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,196 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,497 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--_000_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACFHSMAILBOX02hsha_
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,798 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,798 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=11的摘要：
++OK
+Received: from spam01.hundsun.com (unknown [60.191.25.163])
+	by bizmx2.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 06 Jun 2016 20:17:27 +0800
+X-QQ-FEAT: PaVtCNWdYekOMVItlfQ2RU/ug6zYTVXdr0Fb2eqQKXI=
+X-QQ-MAILINFO: OOE9nCj+FdGKOYiHkMEcyZcMrKddcCpUpCjIAsbVVV8V6t0Cny/hID566
+	mEXkWmnL6zAueyxiF3ggYPvnvGbu4lq30ayZrHaO3M+bHH7gWQG6tsJOi4+/7SfOHI2vNL4
+	8KGSXmeYc1N7
+X-QQ-mid: bizmx2t1465215447t3u2cbkz6
+X-QQ-ORGSender: yangzc11462@hundsun.com
+Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+	by localhost (Email Security Appliance) with SMTP id 378A662084_75569D7B
+	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:17:27 +0000 (GMT)
+Received: from HSCASHUB02.hs.handsome.com.cn (unknown [192.168.60.32])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id 0AFC661AD8_75569D7F
+	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:17:27 +0000 (GMT)
+Received: from HSMAILBOX02.hs.handsome.com.cn ([fe80::149c:9410:eedc:b0b3]) by
+ HSCASHUB02.hs.handsome.com.cn ([::1]) with mapi id 14.01.0421.002; Mon, 6 Jun
+ 2016 20:17:26 +0800
+From: =?gb2312?B?0e7Xv7PJ?= <yangzc11462@hundsun.com>
+To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+Subject: =?gb2312?B?16q3ojog?=
+Thread-Index: AQHRv96NIa+toMdziU+1NIVp/uPvp5/cWqMw
+Date: Mon, 6 Jun 2016 12:17:25 +0000
+Message-ID: <3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACF@HSMAILBOX02.hs.handsome.com.cn>
+References: <201606061831208758359@cnzsqh.com>
+In-Reply-To: <201606061831208758359@cnzsqh.com>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.218.55]
+Content-Type: multipart/mixed;
+	boundary="_004_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACFHSMAILBOX02hsha_"
+MIME-Version: 1.0
+
+--_004_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACFHSMAILBOX02hsha_
+Content-Type: multipart/alternative;
+	boundary="_000_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACFHSMAILBOX02hsha_"
+
+--_000_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ACFHSMAILBOX02hsha_
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,798 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?gb2312?B?0e7Xv7PJ?= <yangzc11462@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,798 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,799 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?16q3ojog?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,799 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 6 Jun 2016 12:17:25 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,799 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:杨卓成<yangzc11462@hundsun.com>
+To:gaos@dunhefund.com <gaos@dunhefund.com>
+Subject:转发: 
+Date:2016/6/6
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,799 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=11的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:04:29,799 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 11
+ 
+
+ 
+记录时间：2016-06-28 15:04:30,100 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 11 ZC0206-YeY_KfGYKJ7Lzn0qgbesW6i
+ 
+
+ 
+记录时间：2016-06-28 15:04:30,100 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=12的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:04:30,100 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 12 5
+ 
+
+ 
+记录时间：2016-06-28 15:04:30,929 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:04:31,231 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (unknown [60.191.25.163])
+ 
+
+ 
+记录时间：2016-06-28 15:04:31,532 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx3.qq.com (NewMx) with SMTP id 
+ 
+
+ 
+记录时间：2016-06-28 15:04:31,833 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon, 06 Jun 2016 20:20:11 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:32,134 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: PaVtCNWdYeku5Ty1WfBj2wqDkxExERNt/VzMl+vMZbk=
+ 
+
+ 
+记录时间：2016-06-28 15:04:32,436 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: OOE9nCj+FdGKOYiHkMEcyZcMrKddcCpUpCjIAsbVVV8V6t0Cny/hID6hM
+ 
+
+ 
+记录时间：2016-06-28 15:04:32,738 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	IVD8+8/WrM+8jeidtULE1JSQvb3ztaJmxvb7EtbEgKYyaOSGxCXcaNYwXvbj0PBxamylHfo
+ 
+
+ 
+记录时间：2016-06-28 15:04:33,039 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	pXJY3hwypDjB
+ 
+
+ 
+记录时间：2016-06-28 15:04:33,340 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx3t1465215612t1j50zxog
+ 
+
+ 
+记录时间：2016-06-28 15:04:33,641 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: yangzc11462@hundsun.com
+ 
+
+ 
+记录时间：2016-06-28 15:04:33,942 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+ 
+
+ 
+记录时间：2016-06-28 15:04:34,243 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by localhost (Email Security Appliance) with SMTP id 5741262341_7556A7BB
+ 
+
+ 
+记录时间：2016-06-28 15:04:34,544 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:20:11 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:04:34,845 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from HSCASHUB02.hs.handsome.com.cn (unknown [192.168.60.32])
+ 
+
+ 
+记录时间：2016-06-28 15:04:35,146 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+ 
+
+ 
+记录时间：2016-06-28 15:04:35,447 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+ 
+
+ 
+记录时间：2016-06-28 15:04:35,748 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id B960562348_7556A7AF
+ 
+
+ 
+记录时间：2016-06-28 15:04:36,050 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:20:10 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:04:36,351 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from HSMAILBOX02.hs.handsome.com.cn ([fe80::149c:9410:eedc:b0b3]) by
+ 
+
+ 
+记录时间：2016-06-28 15:04:36,652 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: HSCASHUB02.hs.handsome.com.cn ([::1]) with mapi id 14.01.0421.002; Mon, 6 Jun
+ 
+
+ 
+记录时间：2016-06-28 15:04:36,953 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: 2016 20:20:08 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:37,254 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: =?gb2312?B?0e7Xv7PJ?= <yangzc11462@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:37,556 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:37,857 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?gb2312?B?ZGJmX2NoZWNr0KG5pL7f?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:38,158 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Topic: =?gb2312?B?ZGJmX2NoZWNr0KG5pL7f?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:38,459 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Index: AdG/7Z5Bt4TCEbYXTnOkGsBCSV9NjA==
+ 
+
+ 
+记录时间：2016-06-28 15:04:38,760 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Mon, 6 Jun 2016 12:20:07 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:04:39,061 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ADF@HSMAILBOX02.hs.handsome.com.cn>
+ 
+
+ 
+记录时间：2016-06-28 15:04:39,362 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Accept-Language: zh-CN, en-US
+ 
+
+ 
+记录时间：2016-06-28 15:04:39,663 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Language: zh-CN
+ 
+
+ 
+记录时间：2016-06-28 15:04:39,964 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-Has-Attach: yes
+ 
+
+ 
+记录时间：2016-06-28 15:04:40,265 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-TNEF-Correlator:
+ 
+
+ 
+记录时间：2016-06-28 15:04:40,566 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:x-originating-ip: [192.168.218.55]
+ 
+
+ 
+记录时间：2016-06-28 15:04:40,867 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed;
+ 
+
+ 
+记录时间：2016-06-28 15:04:41,168 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_007_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ADFHSMAILBOX02hsha_"
+ 
+
+ 
+记录时间：2016-06-28 15:04:41,469 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:04:41,770 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:42,071 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--_007_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ADFHSMAILBOX02hsha_
+ 
+
+ 
+记录时间：2016-06-28 15:04:42,372 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/related;
+ 
+
+ 
+记录时间：2016-06-28 15:04:42,673 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_006_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ADFHSMAILBOX02hsha_";
+ 
+
+ 
+记录时间：2016-06-28 15:04:42,974 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	type="multipart/alternative"
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,275 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,576 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,576 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=12的摘要：
++OK
+Received: from spam01.hundsun.com (unknown [60.191.25.163])
+	by bizmx3.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 06 Jun 2016 20:20:11 +0800
+X-QQ-FEAT: PaVtCNWdYeku5Ty1WfBj2wqDkxExERNt/VzMl+vMZbk=
+X-QQ-MAILINFO: OOE9nCj+FdGKOYiHkMEcyZcMrKddcCpUpCjIAsbVVV8V6t0Cny/hID6hM
+	IVD8+8/WrM+8jeidtULE1JSQvb3ztaJmxvb7EtbEgKYyaOSGxCXcaNYwXvbj0PBxamylHfo
+	pXJY3hwypDjB
+X-QQ-mid: bizmx3t1465215612t1j50zxog
+X-QQ-ORGSender: yangzc11462@hundsun.com
+Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+	by localhost (Email Security Appliance) with SMTP id 5741262341_7556A7BB
+	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:20:11 +0000 (GMT)
+Received: from HSCASHUB02.hs.handsome.com.cn (unknown [192.168.60.32])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id B960562348_7556A7AF
+	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:20:10 +0000 (GMT)
+Received: from HSMAILBOX02.hs.handsome.com.cn ([fe80::149c:9410:eedc:b0b3]) by
+ HSCASHUB02.hs.handsome.com.cn ([::1]) with mapi id 14.01.0421.002; Mon, 6 Jun
+ 2016 20:20:08 +0800
+From: =?gb2312?B?0e7Xv7PJ?= <yangzc11462@hundsun.com>
+To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+Subject: =?gb2312?B?ZGJmX2NoZWNr0KG5pL7f?=
+Thread-Topic: =?gb2312?B?ZGJmX2NoZWNr0KG5pL7f?=
+Thread-Index: AdG/7Z5Bt4TCEbYXTnOkGsBCSV9NjA==
+Date: Mon, 6 Jun 2016 12:20:07 +0000
+Message-ID: <3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ADF@HSMAILBOX02.hs.handsome.com.cn>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.218.55]
+Content-Type: multipart/mixed;
+	boundary="_007_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ADFHSMAILBOX02hsha_"
+MIME-Version: 1.0
+
+--_007_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ADFHSMAILBOX02hsha_
+Content-Type: multipart/related;
+	boundary="_006_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22ADFHSMAILBOX02hsha_";
+	type="multipart/alternative"
+
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,577 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?gb2312?B?0e7Xv7PJ?= <yangzc11462@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,577 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,577 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?ZGJmX2NoZWNr0KG5pL7f?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,578 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 6 Jun 2016 12:20:07 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,578 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:杨卓成<yangzc11462@hundsun.com>
+To:gaos@dunhefund.com <gaos@dunhefund.com>
+Subject:dbf_check小工具
+Date:2016/6/6
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,578 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=12的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,578 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 12
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,879 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 12 ZL0206-lBNuL_edGa_62Wo9QYXxW6i
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,879 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=13的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:04:43,879 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 13 5
+ 
+
+ 
+记录时间：2016-06-28 15:04:44,180 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:04:44,481 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (unknown [60.191.25.163])
+ 
+
+ 
+记录时间：2016-06-28 15:04:44,782 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx5.qq.com (NewMx) with SMTP id 
+ 
+
+ 
+记录时间：2016-06-28 15:04:45,083 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon, 06 Jun 2016 20:30:52 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:45,384 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: PaVtCNWdYelr82tljWIW7TuWrkxWoPb14qFuT+uqIA4=
+ 
+
+ 
+记录时间：2016-06-28 15:04:45,685 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: NiJfp9+W6166U+o+7L0jfBwzbXbYJA+0ZGdF4l116oS1gF87OmVVfW0n6
+ 
+
+ 
+记录时间：2016-06-28 15:04:45,986 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	qfvk67BHAq+tfUBJFOeYj4ouXq4STJUBaD5HAO7B1lyG3wlzDQYHY2Nddit4fG048ofT5qe
+ 
+
+ 
+记录时间：2016-06-28 15:04:46,287 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	0w==
+ 
+
+ 
+记录时间：2016-06-28 15:04:46,588 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx10t1465216253t95yd888e
+ 
+
+ 
+记录时间：2016-06-28 15:04:46,889 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: yangzc11462@hundsun.com
+ 
+
+ 
+记录时间：2016-06-28 15:04:47,190 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+ 
+
+ 
+记录时间：2016-06-28 15:04:47,491 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by localhost (Email Security Appliance) with SMTP id EC6B162304_7556CFBB
+ 
+
+ 
+记录时间：2016-06-28 15:04:47,792 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:30:51 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:04:48,093 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from HSCASHUB01.hs.handsome.com.cn (unknown [192.168.60.37])
+ 
+
+ 
+记录时间：2016-06-28 15:04:48,394 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+ 
+
+ 
+记录时间：2016-06-28 15:04:48,695 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+ 
+
+ 
+记录时间：2016-06-28 15:04:48,996 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id D4BAE62142_7556CFBF
+ 
+
+ 
+记录时间：2016-06-28 15:04:49,297 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:30:51 +0000 (GMT)
+ 
+
+ 
+记录时间：2016-06-28 15:04:49,598 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from HSMAILBOX02.hs.handsome.com.cn ([fe80::149c:9410:eedc:b0b3]) by
+ 
+
+ 
+记录时间：2016-06-28 15:04:49,899 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: HSCASHUB01.hs.handsome.com.cn ([192.168.60.31]) with mapi id 14.01.0421.002;
+ 
+
+ 
+记录时间：2016-06-28 15:04:50,200 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: Mon, 6 Jun 2016 20:30:51 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:50,502 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: =?gb2312?B?0e7Xv7PJ?= <yangzc11462@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:50,803 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:51,104 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?gb2312?B?OTcwMzAwMDe21L3TxKPE4rmkvt+1xL3hy+POxLz+?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:51,405 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Topic: =?gb2312?B?OTcwMzAwMDe21L3TxKPE4rmkvt+1xL3hy+POxLz+?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:51,706 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Index: AdG/7qzVbkkrPQNORCSzPuiXxe0sqQ==
+ 
+
+ 
+记录时间：2016-06-28 15:04:52,007 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Mon, 6 Jun 2016 12:30:50 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:04:52,308 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <3D7F92288BEDFF41ADE28AC0EAD2D31A32F22AFB@HSMAILBOX02.hs.handsome.com.cn>
+ 
+
+ 
+记录时间：2016-06-28 15:04:52,610 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Accept-Language: zh-CN, en-US
+ 
+
+ 
+记录时间：2016-06-28 15:04:52,911 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Language: zh-CN
+ 
+
+ 
+记录时间：2016-06-28 15:04:53,212 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-Has-Attach: yes
+ 
+
+ 
+记录时间：2016-06-28 15:04:53,513 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-MS-TNEF-Correlator:
+ 
+
+ 
+记录时间：2016-06-28 15:04:53,814 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:x-originating-ip: [192.168.218.55]
+ 
+
+ 
+记录时间：2016-06-28 15:04:54,115 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed;
+ 
+
+ 
+记录时间：2016-06-28 15:04:54,416 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_007_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22AFBHSMAILBOX02hsha_"
+ 
+
+ 
+记录时间：2016-06-28 15:04:54,717 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:04:55,018 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:55,319 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--_007_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22AFBHSMAILBOX02hsha_
+ 
+
+ 
+记录时间：2016-06-28 15:04:55,620 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/related;
+ 
+
+ 
+记录时间：2016-06-28 15:04:55,921 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="_006_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22AFBHSMAILBOX02hsha_";
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,222 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	type="multipart/alternative"
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,523 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,825 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,825 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=13的摘要：
++OK
+Received: from spam01.hundsun.com (unknown [60.191.25.163])
+	by bizmx5.qq.com (NewMx) with SMTP id 
+	for <gaos@dunhefund.com>; Mon, 06 Jun 2016 20:30:52 +0800
+X-QQ-FEAT: PaVtCNWdYelr82tljWIW7TuWrkxWoPb14qFuT+uqIA4=
+X-QQ-MAILINFO: NiJfp9+W6166U+o+7L0jfBwzbXbYJA+0ZGdF4l116oS1gF87OmVVfW0n6
+	qfvk67BHAq+tfUBJFOeYj4ouXq4STJUBaD5HAO7B1lyG3wlzDQYHY2Nddit4fG048ofT5qe
+	0w==
+X-QQ-mid: bizmx10t1465216253t95yd888e
+X-QQ-ORGSender: yangzc11462@hundsun.com
+Received: from spam01.hundsun.com (localhost.localdomain [127.0.0.1])
+	by localhost (Email Security Appliance) with SMTP id EC6B162304_7556CFBB
+	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:30:51 +0000 (GMT)
+Received: from HSCASHUB01.hs.handsome.com.cn (unknown [192.168.60.37])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(Client CN "mail.hundsun.com", Issuer "GeoTrust SSL CA - G3" (verified OK))
+	by spam01.hundsun.com (Sophos Email Appliance) with ESMTPS id D4BAE62142_7556CFBF
+	for <gaos@dunhefund.com>; Mon,  6 Jun 2016 12:30:51 +0000 (GMT)
+Received: from HSMAILBOX02.hs.handsome.com.cn ([fe80::149c:9410:eedc:b0b3]) by
+ HSCASHUB01.hs.handsome.com.cn ([192.168.60.31]) with mapi id 14.01.0421.002;
+ Mon, 6 Jun 2016 20:30:51 +0800
+From: =?gb2312?B?0e7Xv7PJ?= <yangzc11462@hundsun.com>
+To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+Subject: =?gb2312?B?OTcwMzAwMDe21L3TxKPE4rmkvt+1xL3hy+POxLz+?=
+Thread-Topic: =?gb2312?B?OTcwMzAwMDe21L3TxKPE4rmkvt+1xL3hy+POxLz+?=
+Thread-Index: AdG/7qzVbkkrPQNORCSzPuiXxe0sqQ==
+Date: Mon, 6 Jun 2016 12:30:50 +0000
+Message-ID: <3D7F92288BEDFF41ADE28AC0EAD2D31A32F22AFB@HSMAILBOX02.hs.handsome.com.cn>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.218.55]
+Content-Type: multipart/mixed;
+	boundary="_007_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22AFBHSMAILBOX02hsha_"
+MIME-Version: 1.0
+
+--_007_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22AFBHSMAILBOX02hsha_
+Content-Type: multipart/related;
+	boundary="_006_3D7F92288BEDFF41ADE28AC0EAD2D31A32F22AFBHSMAILBOX02hsha_";
+	type="multipart/alternative"
+
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,825 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?gb2312?B?0e7Xv7PJ?= <yangzc11462@hundsun.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,826 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "gaos@dunhefund.com" <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,826 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?OTcwMzAwMDe21L3TxKPE4rmkvt+1xL3hy+POxLz+?=
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,826 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 6 Jun 2016 12:30:50 +0000
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,827 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:杨卓成<yangzc11462@hundsun.com>
+To:gaos@dunhefund.com <gaos@dunhefund.com>
+Subject:97030007对接模拟工具的结算文件
+Date:2016/6/6
+
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,827 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=13的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:04:56,827 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 13
+ 
+
+ 
+记录时间：2016-06-28 15:04:57,377 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 13 ZC0206-NbJNAtq2kiRxswBXiXhtR6i
+ 
+
+ 
+记录时间：2016-06-28 15:04:57,377 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=14的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:04:57,378 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 14 5
+ 
+
+ 
+记录时间：2016-06-28 15:04:57,985 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:04:58,287 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from email.bsoft.com.cn (unknown [183.129.201.199])
+ 
+
+ 
+记录时间：2016-06-28 15:04:58,588 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx5.qq.com (NewMx) with SMTP
+ 
+
+ 
+记录时间：2016-06-28 15:04:58,889 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	id ; Tue, 07 Jun 2016 11:02:48 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:04:59,190 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: P8crC/I/01fvrPU64CxBZE6Wtc9uNnOk
+ 
+
+ 
+记录时间：2016-06-28 15:04:59,491 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: NiJfp9+W6166qh7kCKyhARzFq7K45kaDCienMhA2HJ4cTmbQZ5nucHRPu
+ 
+
+ 
+记录时间：2016-06-28 15:04:59,792 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	lj8ZnB5y5kbHu31BDaqm6J8QABxHkzR0q8RWiEeYUs6SlLZIcKpYPsMT0YBIBtTT7NFbvLA
+ 
+
+ 
+记录时间：2016-06-28 15:05:00,093 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Qg==
+ 
+
+ 
+记录时间：2016-06-28 15:05:00,394 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx10t1465268569t08uu8zeb
+ 
+
+ 
+记录时间：2016-06-28 15:05:00,695 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: huyj@bsoft.com.cn
+ 
+
+ 
+记录时间：2016-06-28 15:05:00,996 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from eason-PC (183.129.201.199) by email.bsoft.com.cn (172.16.3.89)
+ 
+
+ 
+记录时间：2016-06-28 15:05:01,297 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: with Microsoft SMTP Server (TLS) id 15.0.516.32; Tue, 7 Jun 2016 11:12:26
+ 
+
+ 
+记录时间：2016-06-28 15:05:01,598 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: +0800
+ 
+
+ 
+记录时间：2016-06-28 15:05:01,899 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Tue, 7 Jun 2016 11:02:49 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:05:02,200 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: "huyj@bsoft.com.cn" <huyj@bsoft.com.cn>
+ 
+
+ 
+记录时间：2016-06-28 15:05:02,501 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: gaos <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:05:02,802 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:CC: zhugb <zhugb@dunhefund.com>, =?GB2312?B?enp4X9XU1tPQ4w==?=
+ 
+
+ 
+记录时间：2016-06-28 15:05:03,103 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	<zhaozx@bsoft.com.cn>, =?GB2312?B?c3hoX8vv0Mu6ow==?= <sunxh@bsoft.com.cn>
+ 
+
+ 
+记录时间：2016-06-28 15:05:03,404 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?GB2312?B?tti6zdfKsvq53MDtt/7O8cb318rUtA==?=
+ 
+
+ 
+记录时间：2016-06-28 15:05:03,705 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Priority: 3
+ 
+
+ 
+记录时间：2016-06-28 15:05:04,006 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Has-Attach: yes
+ 
+
+ 
+记录时间：2016-06-28 15:05:04,307 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Mailer: Foxmail 7, 2, 7, 21[cn]
+ 
+
+ 
+记录时间：2016-06-28 15:05:04,608 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:05:04,909 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <201606071102488875792@bsoft.com.cn>
+ 
+
+ 
+记录时间：2016-06-28 15:05:05,210 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed;
+ 
+
+ 
+记录时间：2016-06-28 15:05:05,511 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_001_NextPart413602860644_=----"
+ 
+
+ 
+记录时间：2016-06-28 15:05:05,812 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Return-Path: huyj@bsoft.com.cn
+ 
+
+ 
+记录时间：2016-06-28 15:05:06,113 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Originating-IP: [183.129.201.199]
+ 
+
+ 
+记录时间：2016-06-28 15:05:06,414 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-ClientProxiedBy: EMAIL.bsoft.com.cn (172.16.3.89) To email.bsoft.com.cn
+ 
+
+ 
+记录时间：2016-06-28 15:05:06,715 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: (172.16.3.89)
+ 
+
+ 
+记录时间：2016-06-28 15:05:07,016 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:05:07,317 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:------=_001_NextPart413602860644_=----
+ 
+
+ 
+记录时间：2016-06-28 15:05:07,618 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/alternative;
+ 
+
+ 
+记录时间：2016-06-28 15:05:07,919 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_002_NextPart844463665035_=----"
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,221 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,522 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:------=_002_NextPart844463665035_=----
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,823 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,823 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=14的摘要：
++OK
+Received: from email.bsoft.com.cn (unknown [183.129.201.199])
+	by bizmx5.qq.com (NewMx) with SMTP
+	id ; Tue, 07 Jun 2016 11:02:48 +0800
+X-QQ-FEAT: P8crC/I/01fvrPU64CxBZE6Wtc9uNnOk
+X-QQ-MAILINFO: NiJfp9+W6166qh7kCKyhARzFq7K45kaDCienMhA2HJ4cTmbQZ5nucHRPu
+	lj8ZnB5y5kbHu31BDaqm6J8QABxHkzR0q8RWiEeYUs6SlLZIcKpYPsMT0YBIBtTT7NFbvLA
+	Qg==
+X-QQ-mid: bizmx10t1465268569t08uu8zeb
+X-QQ-ORGSender: huyj@bsoft.com.cn
+Received: from eason-PC (183.129.201.199) by email.bsoft.com.cn (172.16.3.89)
+ with Microsoft SMTP Server (TLS) id 15.0.516.32; Tue, 7 Jun 2016 11:12:26
+ +0800
+Date: Tue, 7 Jun 2016 11:02:49 +0800
+From: "huyj@bsoft.com.cn" <huyj@bsoft.com.cn>
+To: gaos <gaos@dunhefund.com>
+CC: zhugb <zhugb@dunhefund.com>, =?GB2312?B?enp4X9XU1tPQ4w==?=
+	<zhaozx@bsoft.com.cn>, =?GB2312?B?c3hoX8vv0Mu6ow==?= <sunxh@bsoft.com.cn>
+Subject: =?GB2312?B?tti6zdfKsvq53MDtt/7O8cb318rUtA==?=
+X-Priority: 3
+X-Has-Attach: yes
+X-Mailer: Foxmail 7, 2, 7, 21[cn]
+MIME-Version: 1.0
+Message-ID: <201606071102488875792@bsoft.com.cn>
+Content-Type: multipart/mixed;
+	boundary="----=_001_NextPart413602860644_=----"
+Return-Path: huyj@bsoft.com.cn
+X-Originating-IP: [183.129.201.199]
+X-ClientProxiedBy: EMAIL.bsoft.com.cn (172.16.3.89) To email.bsoft.com.cn
+ (172.16.3.89)
+
+------=_001_NextPart413602860644_=----
+Content-Type: multipart/alternative;
+	boundary="----=_002_NextPart844463665035_=----"
+
+------=_002_NextPart844463665035_=----
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,824 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 7 Jun 2016 11:02:49 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,824 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "huyj@bsoft.com.cn" <huyj@bsoft.com.cn>
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,824 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: gaos <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,824 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?GB2312?B?tti6zdfKsvq53MDtt/7O8cb318rUtA==?=
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,824 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：Date:2016/6/7
+From:huyj@bsoft.com.cn <huyj@bsoft.com.cn>
+To:gaos <gaos@dunhefund.com>
+Subject:敦和资产管理服务器资源
+
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,825 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=14的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:05:08,825 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 14
+ 
+
+ 
+记录时间：2016-06-28 15:05:09,126 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 14 ZL0207-B4DdrnZP1GI0qhlOnZkiK6i
+ 
+
+ 
+记录时间：2016-06-28 15:05:09,126 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=15的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:05:09,126 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 15 5
+ 
+
+ 
+记录时间：2016-06-28 15:05:09,427 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:05:09,728 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from 204.92.114.65 (unknown [204.92.114.65])
+ 
+
+ 
+记录时间：2016-06-28 15:05:10,030 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by bizmx5.qq.com (NewMx) with SMTP id 
+ 
+
+ 
+记录时间：2016-06-28 15:05:10,332 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Tue, 07 Jun 2016 11:09:31 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:05:10,633 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: g2xCNiO+KbAgDMhwvTaoGEHlED5Ram4ZCQeQL3UxK5I=
+ 
+
+ 
+记录时间：2016-06-28 15:05:10,934 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MAILINFO: OcPOniyCAuvqtz2DPxJuo4HSPSlldf+S7RoSJBf7y8gpdrubaLVVuL1w3
+ 
+
+ 
+记录时间：2016-06-28 15:05:11,235 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Q8IaK6B9IPbmLOmhmCKqzXCfddpKAhgioHdRYN4Gy/Cy6YbxL+yQ1DYOHZSes3MfjxxtT/C
+ 
+
+ 
+记录时间：2016-06-28 15:05:11,536 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	2aoVUfCma3Cj
+ 
+
+ 
+记录时间：2016-06-28 15:05:11,837 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmx9t1465268973tdk5vkvs6
+ 
+
+ 
+记录时间：2016-06-28 15:05:12,138 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-CSender: no-reply@ratingsinfo.standardandpoors.com
+ 
+
+ 
+记录时间：2016-06-28 15:05:12,439 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-ORGSender: no-reply@ratingsinfo.standardandpoors.com
+ 
+
+ 
+记录时间：2016-06-28 15:05:12,741 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-KK-mid:bizmxp5t1465268972tzuqvzjvd
+ 
+
+ 
+记录时间：2016-06-28 15:05:13,042 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Return-Path: <no-reply@ratingsinfo.standardandpoors.com>
+ 
+
+ 
+记录时间：2016-06-28 15:05:13,343 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from [10.4.1.245] ([10.4.1.245:44748] helo=P01SNJ018)
+ 
+
+ 
+记录时间：2016-06-28 15:05:13,644 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by msm-mta02-tor6 (envelope-from <no-reply@ratingsinfo.standardandpoors.com>)
+ 
+
+ 
+记录时间：2016-06-28 15:05:13,945 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ESMTP
+ 
+
+ 
+记录时间：2016-06-28 15:05:14,246 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	id 53/C1-14637-4EA36575; Mon, 06 Jun 2016 23:09:24 -0400
+ 
+
+ 
+记录时间：2016-06-28 15:05:14,547 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <53779223306a4f4181c925ab0461fd60@302554905>
+ 
+
+ 
+记录时间：2016-06-28 15:05:14,848 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Binding: 302554905
+ 
+
+ 
+记录时间：2016-06-28 15:05:15,149 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-elqSiteID: 302554905
+ 
+
+ 
+记录时间：2016-06-28 15:05:15,450 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-elqPod: 0x04D4AA276AEFAC548AF4C2541180280C6E4E16410A533B620AAC2EC8FC2601D8
+ 
+
+ 
+记录时间：2016-06-28 15:05:15,751 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 

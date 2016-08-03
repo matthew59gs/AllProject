@@ -1,0 +1,16 @@
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Pop3Test\bin\Debug\Pop3Test.exe
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Pop3Test\bin\Debug\Pop3Test.pdb
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Pop3Test\obj\x86\Debug\Pop3Test.csprojResolveAssemblyReference.cache
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Pop3Test\obj\x86\Debug\Pop3Test.FormMain.resources
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Pop3Test\obj\x86\Debug\Pop3Test.Properties.Resources.resources
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Pop3Test\obj\x86\Debug\Pop3Test.csproj.GenerateResource.Cache
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Pop3Test\obj\x86\Debug\Pop3Test.exe
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Pop3Test\obj\x86\Debug\Pop3Test.pdb
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Developing\Pop3Test\obj\x86\Debug\Pop3Test.exe
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Developing\Pop3Test\obj\x86\Debug\Pop3Test.pdb
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Developing\Pop3Test\obj\x86\Debug\Pop3Test.csprojResolveAssemblyReference.cache
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Developing\Pop3Test\obj\x86\Debug\Pop3Test.FormMain.resources
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Developing\Pop3Test\obj\x86\Debug\Pop3Test.Properties.Resources.resources
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Developing\Pop3Test\obj\x86\Debug\Pop3Test.csproj.GenerateResource.Cache
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Developing\Pop3Test\bin\Debug\Pop3Test.exe
+F:\sparkle\Code\C#\VS\WinForm\Example\Mail\Pop3Test\Developing\Pop3Test\bin\Debug\Pop3Test.pdb

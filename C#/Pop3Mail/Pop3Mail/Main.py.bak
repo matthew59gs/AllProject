@@ -1,0 +1,26 @@
+﻿import os, sys, string
+import poplib
+import email
+
+ServerAddress = "pop.exmail.qq.com"
+Name = "gaos@dunhefund.com"
+Password = "123456"
+
+try:
+    client = poplib.POP3_SSL(ServerAddress)
+except Exception as ex:
+    print("连接服务器", ServerAddress, "失败:\n", ex)
+    os.system("pause")
+    exit()
+print(client.getwelcome())
+
+try:
+    client.user(Name)
+    client.pass_(Password)
+except Exception as ex:
+    print("用户名密码错误：", unicode(ex, 'utf-8'))
+    os.system("pause")
+    exit()
+
+ret = pp.stat()
+print(ret)

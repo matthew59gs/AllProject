@@ -1,0 +1,11 @@
+d:\mydocuments\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+d:\mydocuments\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+d:\mydocuments\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+d:\mydocuments\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Form1.resources
+d:\mydocuments\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+d:\mydocuments\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+d:\mydocuments\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+d:\mydocuments\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+d:\MyDocuments\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+d:\mydocuments\visual studio 2015\Projects\Test\Test\obj\Debug\Test.backgroundworker_PB.resources
+d:\mydocuments\visual studio 2015\Projects\Test\Test\obj\Debug\Test.thread_PB.resources

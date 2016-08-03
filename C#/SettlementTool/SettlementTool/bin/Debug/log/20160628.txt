@@ -1,0 +1,1505 @@
+
+ 
+记录时间：2016-06-28 15:11:09,243 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：刷新数据库基础数据
+ 
+
+ 
+记录时间：2016-06-28 15:11:09,264 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接邮箱，地址：pop.exmail.qq.com:995
+ 
+
+ 
+记录时间：2016-06-28 15:11:09,698 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：连接服务器pop.exmail.qq.com成功
+ 
+
+ 
+记录时间：2016-06-28 15:11:09,699 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录邮箱，用户名：gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-28 15:11:09,699 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:user gaos@dunhefund.com
+ 
+
+ 
+记录时间：2016-06-28 15:11:10,001 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[user]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:11:10,001 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:pass *
+ 
+
+ 
+记录时间：2016-06-28 15:11:10,303 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[pass]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:11:10,304 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：登录gaos@dunhefund.com成功
+ 
+
+ 
+记录时间：2016-06-28 15:11:10,607 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：从收取邮件31件邮件
+ 
+
+ 
+记录时间：2016-06-28 15:11:10,608 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:noop
+ 
+
+ 
+记录时间：2016-06-28 15:11:10,909 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[noop]+OK
+ 
+
+ 
+记录时间：2016-06-28 15:11:10,909 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=26的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:11:10,909 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 26 5
+ 
+
+ 
+记录时间：2016-06-28 15:11:11,263 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:11:11,565 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizesmtp15t1466412039t654t18
+ 
+
+ 
+记录时间：2016-06-28 15:11:11,866 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from DHHGHPC23 (unknown [122.224.71.18])
+ 
+
+ 
+记录时间：2016-06-28 15:11:12,167 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by esmtp4.qq.com (ESMTP) with 
+ 
+
+ 
+记录时间：2016-06-28 15:11:12,468 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	id ; Mon, 20 Jun 2016 16:40:38 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-28 15:11:12,769 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-SSF: 00410000002000F0FK40000A0000000
+ 
+
+ 
+记录时间：2016-06-28 15:11:13,070 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: SKIjPXh+4qFLUXVN5WaOtlWieKW3/UQfU/8QoUPsIrvkjInO6xnFwcctneuSd
+ 
+
+ 
+记录时间：2016-06-28 15:11:13,371 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	0wIzoORcTlRhr73hp5bqQAxTuEEBh4quTy0Z4OX7WwNFkwb//YLVmeDB16IAjpQaeM6QxTw
+ 
+
+ 
+记录时间：2016-06-28 15:11:13,672 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	+EewOABxNBDOitzyFM1deIzbQ3C/kw8xLEzBxrb+4CGf/FI0gqBG9iDCNs5QQT78sNFplZr
+ 
+
+ 
+记录时间：2016-06-28 15:11:13,973 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Sd3KK0BAe5ycuA8X8i+ba2FSi6N6/rCroQQ+ANbRqw7OXew94imRV2NlwR02EYsmrAjAHQL
+ 
+
+ 
+记录时间：2016-06-28 15:11:14,274 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	tOx1O64hEtdOw1yP+9wgxeTrbGPn01J+y4kYEiKI/e5FS3
+ 
+
+ 
+记录时间：2016-06-28 15:11:14,575 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: =?gb2312?B?uvrTscP0?= <huym@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:14,876 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: <gaos@dunhefund.com>,
+ 
+
+ 
+记录时间：2016-06-28 15:11:15,177 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	<zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:15,478 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?gb2312?B?0MXPos+1zbPKudPDx+m/9qOssO/O0sPHzO7Su8/C?=
+ 
+
+ 
+记录时间：2016-06-28 15:11:15,779 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Mon, 20 Jun 2016 16:40:22 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:11:16,080 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <469201d1cacf$6539c1a0$2fad44e0$@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:16,381 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:11:16,682 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed;
+ 
+
+ 
+记录时间：2016-06-28 15:11:16,983 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_NextPart_000_4693_01D1CB12.735F72A0"
+ 
+
+ 
+记录时间：2016-06-28 15:11:17,284 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Mailer: Microsoft Outlook 14.0
+ 
+
+ 
+记录时间：2016-06-28 15:11:17,585 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Index: AdHKz2H2NuKculbIQ36dXVuq9uVpXg==
+ 
+
+ 
+记录时间：2016-06-28 15:11:17,886 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Language: zh-cn
+ 
+
+ 
+记录时间：2016-06-28 15:11:18,187 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:11:18,488 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:This is a multipart message in MIME format.
+ 
+
+ 
+记录时间：2016-06-28 15:11:18,789 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,090 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:------=_NextPart_000_4693_01D1CB12.735F72A0
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,391 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/alternative;
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,692 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_NextPart_001_4694_01D1CB12.735F72A0"
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,993 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,993 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=26的摘要：
++OK
+X-QQ-mid: bizesmtp15t1466412039t654t18
+Received: from DHHGHPC23 (unknown [122.224.71.18])
+	by esmtp4.qq.com (ESMTP) with 
+	id ; Mon, 20 Jun 2016 16:40:38 +0800 (CST)
+X-QQ-SSF: 00410000002000F0FK40000A0000000
+X-QQ-FEAT: SKIjPXh+4qFLUXVN5WaOtlWieKW3/UQfU/8QoUPsIrvkjInO6xnFwcctneuSd
+	0wIzoORcTlRhr73hp5bqQAxTuEEBh4quTy0Z4OX7WwNFkwb//YLVmeDB16IAjpQaeM6QxTw
+	+EewOABxNBDOitzyFM1deIzbQ3C/kw8xLEzBxrb+4CGf/FI0gqBG9iDCNs5QQT78sNFplZr
+	Sd3KK0BAe5ycuA8X8i+ba2FSi6N6/rCroQQ+ANbRqw7OXew94imRV2NlwR02EYsmrAjAHQL
+	tOx1O64hEtdOw1yP+9wgxeTrbGPn01J+y4kYEiKI/e5FS3
+From: =?gb2312?B?uvrTscP0?= <huym@dunhefund.com>
+To: <gaos@dunhefund.com>,
+	<zhugb@dunhefund.com>
+Subject: =?gb2312?B?0MXPos+1zbPKudPDx+m/9qOssO/O0sPHzO7Su8/C?=
+Date: Mon, 20 Jun 2016 16:40:22 +0800
+Message-ID: <469201d1cacf$6539c1a0$2fad44e0$@dunhefund.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_4693_01D1CB12.735F72A0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdHKz2H2NuKculbIQ36dXVuq9uVpXg==
+Content-Language: zh-cn
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_4693_01D1CB12.735F72A0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_4694_01D1CB12.735F72A0"
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,994 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?gb2312?B?uvrTscP0?= <huym@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,995 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: <gaos@dunhefund.com>,
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,996 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?0MXPos+1zbPKudPDx+m/9qOssO/O0sPHzO7Su8/C?=
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,997 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 20 Jun 2016 16:40:22 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,998 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:胡颖敏<huym@dunhefund.com>
+To:<gaos@dunhefund.com>
+Subject:信息系统使用情况，帮我们填一下
+Date:2016/6/20
+
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,998 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=26的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:11:19,998 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 26
+ 
+
+ 
+记录时间：2016-06-28 15:11:20,299 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 26 ZL0220-MLe_rXXZ6V84hzRjZMcBZ6i
+ 
+
+ 
+记录时间：2016-06-28 15:11:20,299 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=27的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:11:20,299 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 27 5
+ 
+
+ 
+记录时间：2016-06-28 15:11:20,797 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:11:21,098 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-GoodBg: 1
+ 
+
+ 
+记录时间：2016-06-28 15:11:21,399 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-SSF: 00410000000000F0
+ 
+
+ 
+记录时间：2016-06-28 15:11:21,700 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: DTni/y8B878KAIQgcC0dfd8KIhi2hYaDeifDalx9RPg=
+ 
+
+ 
+记录时间：2016-06-28 15:11:22,001 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-BUSINESS-ORIGIN: 2
+ 
+
+ 
+记录时间：2016-06-28 15:11:22,302 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Originating-IP: 122.224.206.83
+ 
+
+ 
+记录时间：2016-06-28 15:11:22,603 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-STYLE: 
+ 
+
+ 
+记录时间：2016-06-28 15:11:22,904 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizmailfree73t1466413935t5489
+ 
+
+ 
+记录时间：2016-06-28 15:11:23,205 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:23,506 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?5p6X5oGp5b63?=" <lined@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>, "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:23,807 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Cc: "=?utf-8?B?5byg5b+X5rSy?=" <zhangzz@dunhefund.com>, "=?utf-8?B?6YeR5q+F?=" <jiny@dunhefund.com>, "=?utf-8?B?Y2luZHkgaHVhbmc=?=" <cindy@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:24,108 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?utf-8?B?5pWm5ZKM5L+h5oGv5oqA5pyv6YOo6Zeo5ZGo5bqm?=
+ 
+
+ 
+记录时间：2016-06-28 15:11:24,409 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]: =?utf-8?B?5Lya6K6u57qq6KaBMjAxNjA2MjA=?=
+ 
+
+ 
+记录时间：2016-06-28 15:11:24,710 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Mime-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:11:25,010 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/mixed;
+ 
+
+ 
+记录时间：2016-06-28 15:11:25,312 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_NextPart_5767B36F_09A52A18_3FA4D67B"
+ 
+
+ 
+记录时间：2016-06-28 15:11:25,613 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Transfer-Encoding: 8Bit
+ 
+
+ 
+记录时间：2016-06-28 15:11:25,914 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Mon, 20 Jun 2016 17:12:15 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:11:26,215 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Priority: 3
+ 
+
+ 
+记录时间：2016-06-28 15:11:26,516 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <tencent_083BADDF098C043C33F5F8EA@qq.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:26,817 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-MIME: TCMime 1.0 by Tencent
+ 
+
+ 
+记录时间：2016-06-28 15:11:27,118 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Mailer: QQMail 2.x
+ 
+
+ 
+记录时间：2016-06-28 15:11:27,419 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-Mailer: QQMail 2.x
+ 
+
+ 
+记录时间：2016-06-28 15:11:27,720 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:11:28,021 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:This is a multi-part message in MIME format.
+ 
+
+ 
+记录时间：2016-06-28 15:11:28,322 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:11:28,623 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:------=_NextPart_5767B36F_09A52A18_3FA4D67B
+ 
+
+ 
+记录时间：2016-06-28 15:11:28,924 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/alternative;
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,225 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_NextPart_5767B36F_09A52A18_261FB4F9";
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,527 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,527 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=27的摘要：
++OK
+X-QQ-GoodBg: 1
+X-QQ-SSF: 00410000000000F0
+X-QQ-FEAT: DTni/y8B878KAIQgcC0dfd8KIhi2hYaDeifDalx9RPg=
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 122.224.206.83
+X-QQ-STYLE: 
+X-QQ-mid: bizmailfree73t1466413935t5489
+From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?5p6X5oGp5b63?=" <lined@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>, "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+Cc: "=?utf-8?B?5byg5b+X5rSy?=" <zhangzz@dunhefund.com>, "=?utf-8?B?6YeR5q+F?=" <jiny@dunhefund.com>, "=?utf-8?B?Y2luZHkgaHVhbmc=?=" <cindy@dunhefund.com>
+Subject: =?utf-8?B?5pWm5ZKM5L+h5oGv5oqA5pyv6YOo6Zeo5ZGo5bqm?=
+ =?utf-8?B?5Lya6K6u57qq6KaBMjAxNjA2MjA=?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_5767B36F_09A52A18_3FA4D67B"
+Content-Transfer-Encoding: 8Bit
+Date: Mon, 20 Jun 2016 17:12:15 +0800
+X-Priority: 3
+Message-ID: <tencent_083BADDF098C043C33F5F8EA@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_5767B36F_09A52A18_3FA4D67B
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_5767B36F_09A52A18_261FB4F9";
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,527 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,527 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: "=?utf-8?B?5rKI5pet5qyj?=" <shenxx@dunhefund.com>, "=?utf-8?B?5p6X5oGp5b63?=" <lined@dunhefund.com>, "=?utf-8?B?6auY5bWp?=" <gaos@dunhefund.com>, "=?utf-8?B?5pyx5Zu95paM?=" <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,528 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?utf-8?B?5pWm5ZKM5L+h5oGv5oqA5pyv6YOo6Zeo5ZGo5bqm?=
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,528 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Mon, 20 Jun 2016 17:12:15 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,528 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:朱国斌<zhugb@dunhefund.com>
+To:沈旭欣<shenxx@dunhefund.com>林恩德<lined@dunhefund.com>高嵩<gaos@dunhefund.com>朱国斌<zhugb@dunhefund.com>
+Subject:敦和信息技术部门周度
+Date:2016/6/20
+
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,529 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=27的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,529 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 27
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,830 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 27 ZL0920-52ARjVXmuA5pizhvCcfrL6i
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,830 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=28的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:11:29,830 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 28 5
+ 
+
+ 
+记录时间：2016-06-28 15:11:30,132 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:11:30,433 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizesmtp3t1466472476t574t069
+ 
+
+ 
+记录时间：2016-06-28 15:11:30,734 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from DHHGHPC23 (unknown [122.224.71.18])
+ 
+
+ 
+记录时间：2016-06-28 15:11:31,035 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by esmtp4.qq.com (ESMTP) with SMTP id 0
+ 
+
+ 
+记录时间：2016-06-28 15:11:31,336 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	for <gaos@dunhefund.com>; Tue, 21 Jun 2016 09:27:55 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-28 15:11:31,637 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-SSF: 00410000000000F1FK40B00A0000000
+ 
+
+ 
+记录时间：2016-06-28 15:11:31,938 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: j7K6aBKg9cCFnzqBvyUxZZpsrHcN3Tsioes/ENLpKPj1H918zM4Fx6Cq5zDeH
+ 
+
+ 
+记录时间：2016-06-28 15:11:32,239 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	o/s0asfSZingZ5HloZJ4Jl0dN+WR7GhJ7yX/fQlw+zvS6TtMvN51W25B3+FEPAJVGhlQFXG
+ 
+
+ 
+记录时间：2016-06-28 15:11:32,540 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	cJfTaoBTV8bd8Aiim74+ixWkyDO5oUUju6z1f7KEIL2LDFpwtRYk9BJz8A42KywnNCbBD0R
+ 
+
+ 
+记录时间：2016-06-28 15:11:32,841 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	Gf+H/fC68oKZVNTQXARKhQe8nVPEyHucAN4djQtDKtqEeL6hKFlOsTq72zAhIMmUAKWREZC
+ 
+
+ 
+记录时间：2016-06-28 15:11:33,142 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	h8iN9cLl8nsMtpKObHdKkTTXE=
+ 
+
+ 
+记录时间：2016-06-28 15:11:33,443 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: =?gb2312?B?uvrTscP0?= <huym@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:33,744 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To: <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:34,045 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:References: <201606210900091195280@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:34,346 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:In-Reply-To: <201606210900091195280@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:34,647 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: =?gb2312?B?tPC4tDogvq28zb/Nu6e+odawtfey6bHt?=
+ 
+
+ 
+记录时间：2016-06-28 15:11:34,948 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Tue, 21 Jun 2016 09:27:43 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:11:35,249 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <46bd01d1cb5c$1c867a60$55936f20$@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:35,550 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:MIME-Version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:11:35,851 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: multipart/alternative;
+ 
+
+ 
+记录时间：2016-06-28 15:11:36,152 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="----=_NextPart_000_46BE_01D1CB9F.2AAC0450"
+ 
+
+ 
+记录时间：2016-06-28 15:11:36,453 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-Mailer: Microsoft Outlook 14.0
+ 
+
+ 
+记录时间：2016-06-28 15:11:36,754 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Index: AQIc0xzoiLja3vKZCch7tFGy9pr/159dEeBA
+ 
+
+ 
+记录时间：2016-06-28 15:11:37,055 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Language: zh-cn
+ 
+
+ 
+记录时间：2016-06-28 15:11:37,356 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:11:37,657 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:This is a multipart message in MIME format.
+ 
+
+ 
+记录时间：2016-06-28 15:11:37,958 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:11:38,259 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:------=_NextPart_000_46BE_01D1CB9F.2AAC0450
+ 
+
+ 
+记录时间：2016-06-28 15:11:38,560 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-Type: text/plain;
+ 
+
+ 
+记录时间：2016-06-28 15:11:38,862 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	charset="gb2312"
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,163 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,163 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=28的摘要：
++OK
+X-QQ-mid: bizesmtp3t1466472476t574t069
+Received: from DHHGHPC23 (unknown [122.224.71.18])
+	by esmtp4.qq.com (ESMTP) with SMTP id 0
+	for <gaos@dunhefund.com>; Tue, 21 Jun 2016 09:27:55 +0800 (CST)
+X-QQ-SSF: 00410000000000F1FK40B00A0000000
+X-QQ-FEAT: j7K6aBKg9cCFnzqBvyUxZZpsrHcN3Tsioes/ENLpKPj1H918zM4Fx6Cq5zDeH
+	o/s0asfSZingZ5HloZJ4Jl0dN+WR7GhJ7yX/fQlw+zvS6TtMvN51W25B3+FEPAJVGhlQFXG
+	cJfTaoBTV8bd8Aiim74+ixWkyDO5oUUju6z1f7KEIL2LDFpwtRYk9BJz8A42KywnNCbBD0R
+	Gf+H/fC68oKZVNTQXARKhQe8nVPEyHucAN4djQtDKtqEeL6hKFlOsTq72zAhIMmUAKWREZC
+	h8iN9cLl8nsMtpKObHdKkTTXE=
+From: =?gb2312?B?uvrTscP0?= <huym@dunhefund.com>
+To: <gaos@dunhefund.com>
+References: <201606210900091195280@dunhefund.com>
+In-Reply-To: <201606210900091195280@dunhefund.com>
+Subject: =?gb2312?B?tPC4tDogvq28zb/Nu6e+odawtfey6bHt?=
+Date: Tue, 21 Jun 2016 09:27:43 +0800
+Message-ID: <46bd01d1cb5c$1c867a60$55936f20$@dunhefund.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_46BE_01D1CB9F.2AAC0450"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIc0xzoiLja3vKZCch7tFGy9pr/159dEeBA
+Content-Language: zh-cn
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_46BE_01D1CB9F.2AAC0450
+Content-Type: text/plain;
+	charset="gb2312"
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,163 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的FROM字段：From: =?gb2312?B?uvrTscP0?= <huym@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,163 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的TO字段：To: <gaos@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,163 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: =?gb2312?B?tPC4tDogvq28zb/Nu6e+odawtfey6bHt?=
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,164 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Tue, 21 Jun 2016 09:27:43 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,164 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：邮件信息：From:胡颖敏<huym@dunhefund.com>
+To:<gaos@dunhefund.com>
+Subject:答复: 经纪客户尽职调查表
+Date:2016/6/21
+
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,164 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=28的邮件ID
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,164 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:uidl 28
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,465 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[uidl]:+OK 28 ZC0921-X9jFo3vjQfefswBX9gB5L6i
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,465 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取Index=29的邮件摘要
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,465 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：send:top 29 5
+ 
+
+ 
+记录时间：2016-06-28 15:11:39,875 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:+OK
+ 
+
+ 
+记录时间：2016-06-28 15:11:40,176 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-mid: bizesmtp7t1466662916t575t214
+ 
+
+ 
+记录时间：2016-06-28 15:11:40,477 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Received: from [192.168.50.24] (unknown [122.224.121.18])
+ 
+
+ 
+记录时间：2016-06-28 15:11:40,778 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	by esmtp4.qq.com (ESMTP) with 
+ 
+
+ 
+记录时间：2016-06-28 15:11:41,079 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	id ; Thu, 23 Jun 2016 14:21:53 +0800 (CST)
+ 
+
+ 
+记录时间：2016-06-28 15:11:41,381 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-SSF: 00410000002000F0F620B00A0000000
+ 
+
+ 
+记录时间：2016-06-28 15:11:41,682 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:X-QQ-FEAT: ssvAR3p/afMWKMe4zskUslcv6PVtrBSbD6Pys3s3hduLlAnAphJ0hYaPQzVmd
+ 
+
+ 
+记录时间：2016-06-28 15:11:41,984 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	KxlJaop6ZxuvDm/zjSR0iZis6YZPnF/911vdetmXkSOv0LikFX0CB1HWwb+yy0Js9P6a/6j
+ 
+
+ 
+记录时间：2016-06-28 15:11:42,285 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	fL7S3RmWPv47XJyei1NG6GPHQ2OnFJTlY3mGKHaNckfRKseHZBprURTM/d9sGwOhJVHA70/
+ 
+
+ 
+记录时间：2016-06-28 15:11:42,586 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	2ucC76bPn5mwszAQNlGlg6fOxx6LtBgsLRyxq0JskRaaBtJp3eD8R98RNvDNLiS9n6n9wZg
+ 
+
+ 
+记录时间：2016-06-28 15:11:42,887 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	dlE/m/XdWkPTDCSg+jS/QauO767LGWLpqX0WYd1eZlcCwaIe8uCYlXMRh52vtQZn+jq7h90
+ 
+
+ 
+记录时间：2016-06-28 15:11:43,188 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	RRFfZJO
+ 
+
+ 
+记录时间：2016-06-28 15:11:43,489 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:User-Agent: Microsoft-MacOutlook/f.15.1.160411
+ 
+
+ 
+记录时间：2016-06-28 15:11:43,790 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Date: Thu, 23 Jun 2016 14:21:52 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:11:44,091 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Subject: FW: =?UTF-8?B?562U5aSN?=: =?UTF-8?B?IOWbveWvjOacn+i0pw==?=
+ 
+
+ 
+记录时间：2016-06-28 15:11:44,394 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:From: =?UTF-8?B?5rKI5pet5qyj?= <shenxx@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:44,695 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:To:  =?UTF-8?B?6auY5bWp?= <gaos@dunhefund.com>,
+ 
+
+ 
+记录时间：2016-06-28 15:11:44,996 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	 =?UTF-8?B?5pyx5Zu95paM?= <zhugb@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:45,298 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Message-ID: <B9D078F5-958D-4A3F-9ACE-0981E5CEAC3E@dunhefund.com>
+ 
+
+ 
+记录时间：2016-06-28 15:11:45,599 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Thread-Topic: =?UTF-8?B?562U5aSN?=: =?UTF-8?B?IOWbveWvjOacn+i0pw==?=
+ 
+
+ 
+记录时间：2016-06-28 15:11:45,900 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Mime-version: 1.0
+ 
+
+ 
+记录时间：2016-06-28 15:11:46,201 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-type: multipart/mixed;
+ 
+
+ 
+记录时间：2016-06-28 15:11:46,502 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:	boundary="B_3549536513_1384714550"
+ 
+
+ 
+记录时间：2016-06-28 15:11:46,802 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:11:47,103 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:> This message is in MIME format. Since your mail reader does not understand
+ 
+
+ 
+记录时间：2016-06-28 15:11:47,404 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:this format, some or all of this message may not be legible.
+ 
+
+ 
+记录时间：2016-06-28 15:11:47,705 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:
+ 
+
+ 
+记录时间：2016-06-28 15:11:48,006 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:--B_3549536513_1384714550
+ 
+
+ 
+记录时间：2016-06-28 15:11:48,306 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:Content-type: multipart/alternative;
+ 
+
+ 
+记录时间：2016-06-28 15:11:48,607 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：receive[top]:.
+ 
+
+ 
+记录时间：2016-06-28 15:11:48,607 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：获取到Index=29的摘要：
++OK
+X-QQ-mid: bizesmtp7t1466662916t575t214
+Received: from [192.168.50.24] (unknown [122.224.121.18])
+	by esmtp4.qq.com (ESMTP) with 
+	id ; Thu, 23 Jun 2016 14:21:53 +0800 (CST)
+X-QQ-SSF: 00410000002000F0F620B00A0000000
+X-QQ-FEAT: ssvAR3p/afMWKMe4zskUslcv6PVtrBSbD6Pys3s3hduLlAnAphJ0hYaPQzVmd
+	KxlJaop6ZxuvDm/zjSR0iZis6YZPnF/911vdetmXkSOv0LikFX0CB1HWwb+yy0Js9P6a/6j
+	fL7S3RmWPv47XJyei1NG6GPHQ2OnFJTlY3mGKHaNckfRKseHZBprURTM/d9sGwOhJVHA70/
+	2ucC76bPn5mwszAQNlGlg6fOxx6LtBgsLRyxq0JskRaaBtJp3eD8R98RNvDNLiS9n6n9wZg
+	dlE/m/XdWkPTDCSg+jS/QauO767LGWLpqX0WYd1eZlcCwaIe8uCYlXMRh52vtQZn+jq7h90
+	RRFfZJO
+User-Agent: Microsoft-MacOutlook/f.15.1.160411
+Date: Thu, 23 Jun 2016 14:21:52 +0800
+Subject: FW: =?UTF-8?B?562U5aSN?=: =?UTF-8?B?IOWbveWvjOacn+i0pw==?=
+From: =?UTF-8?B?5rKI5pet5qyj?= <shenxx@dunhefund.com>
+To:  =?UTF-8?B?6auY5bWp?= <gaos@dunhefund.com>,
+	 =?UTF-8?B?5pyx5Zu95paM?= <zhugb@dunhefund.com>
+Message-ID: <B9D078F5-958D-4A3F-9ACE-0981E5CEAC3E@dunhefund.com>
+Thread-Topic: =?UTF-8?B?562U5aSN?=: =?UTF-8?B?IOWbveWvjOacn+i0pw==?=
+Mime-version: 1.0
+Content-type: multipart/mixed;
+	boundary="B_3549536513_1384714550"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3549536513_1384714550
+Content-type: multipart/alternative;
+.
+
+ 
+
+ 
+记录时间：2016-06-28 15:11:48,608 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的DATE字段：Date: Thu, 23 Jun 2016 14:21:52 +0800
+ 
+
+ 
+记录时间：2016-06-28 15:11:48,608 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：SettlementTool.FormMain property: [(null)] - 
+错误描述：分析邮件的SUBJECT字段：Subject: FW: =?UTF-8?B?562U5aSN?=: =?UTF-8?B?IOWbveWvjOacn+i0pw==?=
+ 
