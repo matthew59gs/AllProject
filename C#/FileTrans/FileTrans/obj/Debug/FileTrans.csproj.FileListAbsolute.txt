@@ -1,0 +1,1 @@
+E:\Project\C#\FileTrans\FileTrans\bin\Debug\FileTrans.exe.config
