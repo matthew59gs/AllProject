@@ -1,0 +1,1 @@
+CTP_DEMO_64.exe|mtee run.log
