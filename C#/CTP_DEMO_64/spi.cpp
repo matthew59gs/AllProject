@@ -221,7 +221,7 @@ void CTraderSpi::ReqQryInstrument()
 {
 	CThostFtdcQryInstrumentField req;
 	memset(&req, 0, sizeof(req));
-	strcpy_s(req.InstrumentID, "rb1701");
+	strcpy_s(req.InstrumentID, "SR711");
 	int iResult = pUserApi->ReqQryInstrument(&req, ++iRequestID);
 	cout << "--->>> 请求查询保证金比例: " << ((iResult == 0) ? "成功" : "失败") << endl;
 }
@@ -239,6 +239,9 @@ void CTraderSpi::OnRspQryInstrument(CThostFtdcInstrumentField *pInstrument, CTho
 			cout << "多头保证金比例：" << pInstrument->LongMarginRatio << endl;
 			cout << "空头保证金比例" << pInstrument->ShortMarginRatio << endl;
 		}
+
+		string end;
+		cin >> end;
 
 		if (bIsLast)
 				stopAPI();
