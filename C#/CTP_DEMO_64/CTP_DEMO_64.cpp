@@ -107,7 +107,7 @@ int ChooseBrokerShow()
 	pBrokerInfo = new TUserDefLoginInfo;
 	strcpy_s(pBrokerInfo->BrokerName, "中粮期货测试");		// 经纪公司名称
 	strcpy_s(pBrokerInfo->BrokerID, "8888");				// 经纪公司代码
-	strcpy_s(pBrokerInfo->FrontAddress, "tcp://140.206.103.249:41205");	// 前置地址
+	strcpy_s(pBrokerInfo->FrontAddress, "tcp://27.115.56.210:41205");	// 前置地址
 	strcpy_s(pBrokerInfo->UserID, "18906015");				// 投资者代码
 	strcpy_s(pBrokerInfo->Password, "999999");				// 用户密码
 	strcpy_s(pBrokerInfo->UserProductInfo, "");				// 产品信息
@@ -181,6 +181,7 @@ int ChooseBrokerShow()
 	{
 		iIndex = iInput - 1;
 		cout << "您选择了[" << iInput << "]" << vBrokerList[iIndex].BrokerName << endl;
+		cout << "IP:" << vBrokerList[iIndex].FrontAddress << endl;
 
 		strcpy_s(FRONT_ADDR, vBrokerList[iIndex].FrontAddress);			// 前置地址
 		strcpy_s(BROKER_ID, vBrokerList[iIndex].BrokerID);					// 经纪公司代码

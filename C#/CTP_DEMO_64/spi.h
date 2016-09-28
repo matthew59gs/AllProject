@@ -82,6 +82,9 @@ public:
 	///请求查询保证金比例响应
 	virtual void OnRspQryInstrument(CThostFtdcInstrumentField *pInstrument, CThostFtdcRspInfoField *pRspInfo, int nRequestID, bool bIsLast);
 
+	///请求查询合约费率
+	virtual void OnRspQryInstrumentCommissionRate(CThostFtdcInstrumentCommissionRateField *pInstrumentCommissionRate, CThostFtdcRspInfoField *pRspInfo, int nRequestID, bool bIsLast);
+
 	///错误应答
 	virtual void OnRspError(CThostFtdcRspInfoField *pRspInfo, int nRequestID, bool bIsLast);
 
@@ -106,8 +109,8 @@ private:
 	void ReqQryInvestorPosition();
 	///请求查询投资者结算结果
 	void ReqQrySettlementInfo();
-	/////查询保证金比例
-	//void ReqQryInstrument();
+	///查询费率
+	void ReqQryInstrumentCommissionRate();
 
 	// 是否收到成功的响应
 	bool IsErrorRspInfo(CThostFtdcRspInfoField *pRspInfo);

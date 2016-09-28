@@ -57,6 +57,7 @@ void CTraderSpi::OnRspUserLogin(CThostFtdcRspUserLoginField *pRspUserLogin,
 		int iNextOrderRef = atoi(pRspUserLogin->MaxOrderRef);
 		iNextOrderRef++;
 		sprintf_s(ORDER_REF, "%d", iNextOrderRef);
+		cout << "" << endl;
 		///获取当前交易日
 		cout << "--->>> 获取当前交易日 = " << pUserApi->GetTradingDay() << endl;
 		Sleep(1000);
@@ -210,7 +211,16 @@ void CTraderSpi::OnRspQryTradingCode(CThostFtdcTradingCodeField *pTradingCode, C
 			if ('Y' == c_result || 'y' == c_result)
 				ReqQryInstrument();
 			else
-				stopAPI();
+			{
+				cout << "是否查询费率（Y/N）：" << endl;
+				cin >> c_result;
+				if ('Y' == c_result || 'y' == c_result)
+					ReqQryInstrumentCommissionRate();
+				else
+				{
+					stopAPI();
+				}
+			}
 		}
 	}
 	else
@@ -239,12 +249,62 @@ void CTraderSpi::OnRspQryInstrument(CThostFtdcInstrumentField *pInstrument, CTho
 			cout << "多头保证金比例：" << pInstrument->LongMarginRatio << endl;
 			cout << "空头保证金比例" << pInstrument->ShortMarginRatio << endl;
 		}
+	}
+}
 
-		string end;
-		cin >> end;
+void CTraderSpi::ReqQryInstrumentCommissionRate()
+{
+	CThostFtdcQryInstrumentCommissionRateField req;
+	memset(&req, 0, sizeof(req));
+	strcpy_s(req.BrokerID, BROKER_ID);
+	strcpy_s(req.InvestorID, INVESTOR_ID);
+	strcpy_s(req.InstrumentID, "c1701");
+	int iResult = pUserApi->ReqQryInstrumentCommissionRate(&req, ++iRequestID);
+	cout << "--->>> 请求查询费率: " << ((iResult == 0) ? "成功" : "失败") << endl;
+}
+
+void CTraderSpi::OnRspQryInstrumentCommissionRate(CThostFtdcInstrumentCommissionRateField *pInstrumentCommissionRate, CThostFtdcRspInfoField *pRspInfo, int nRequestID, bool bIsLast)
+{
+	cout << "--->>> " << "OnRspQryInstrumentCommissionRate" << endl;
+	if (!IsErrorRspInfo(pRspInfo))
+	{
+		/*///合约代码
+	TThostFtdcInstrumentIDType	InstrumentID;
+	///投资者范围
+	TThostFtdcInvestorRangeType	InvestorRange;
+	///经纪公司代码
+	TThostFtdcBrokerIDType	BrokerID;
+	///投资者代码
+	TThostFtdcInvestorIDType	InvestorID;
+	///开仓手续费率
+	TThostFtdcRatioType	OpenRatioByMoney;
+	///开仓手续费
+	TThostFtdcRatioType	OpenRatioByVolume;
+	///平仓手续费率
+	TThostFtdcRatioType	CloseRatioByMoney;
+	///平仓手续费
+	TThostFtdcRatioType	CloseRatioByVolume;
+	///平今手续费率
+	TThostFtdcRatioType	CloseTodayRatioByMoney;
+	///平今手续费
+	TThostFtdcRatioType	CloseTodayRatioByVolume;*/
+		if (pInstrumentCommissionRate != NULL)
+		{
+			cout << "合约代码：" << pInstrumentCommissionRate->InstrumentID << endl;
+			cout << "开仓手续费率:" << pInstrumentCommissionRate->OpenRatioByMoney << endl;
+			cout << "开仓手续费:" << pInstrumentCommissionRate->OpenRatioByVolume << endl;
+			cout << "平仓手续费率:" << pInstrumentCommissionRate->CloseRatioByMoney << endl;
+			cout << "平仓手续费:" << pInstrumentCommissionRate->CloseRatioByVolume << endl;
+			cout << "平今手续费率:" << pInstrumentCommissionRate->CloseTodayRatioByMoney << endl;
+			cout << "平今手续费：" << pInstrumentCommissionRate->CloseTodayRatioByVolume << endl;
+		}
 
 		if (bIsLast)
-				stopAPI();
+		{
+			string input;
+			cin >> input;
+			stopAPI();
+		}
 	}
 	else
 		stopAPI();
