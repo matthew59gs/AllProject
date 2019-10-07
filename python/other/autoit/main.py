@@ -1,6 +1,6 @@
 
 import sys
-sys.path.append("..\\..\\..\\public\\python")
+sys.path.append("..\\..\\public")
 import dunhe_public
 import auto
 
