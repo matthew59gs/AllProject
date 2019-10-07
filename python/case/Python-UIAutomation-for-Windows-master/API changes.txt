@@ -1,0 +1,43 @@
+2.0.3
+    rename searchWaitTime to searchInterval in Control.__init__
+2.0.2
+    Control.WheelDown(self, wheelTimes: int = 1, interval: float = 0.05, waitTime: float = OPERATION_WAIT_TIME) -> None
+        to WheelDown(self, x: int = None, y: int = None, ratioX: float = 0.5, ratioY: float = 0.5, wheelTimes: int = 1, interval: float = 0.05, waitTime: float = OPERATION_WAIT_TIME) -> None
+    Control.WheelUp(self, wheelTimes: int = 1, interval: float = 0.05, waitTime: float = OPERATION_WAIT_TIME) -> None
+        to WheelUp(self, x: int = None, y: int = None, ratioX: float = 0.5, ratioY: float = 0.5, wheelTimes: int = 1, interval: float = 0.05, waitTime: float = OPERATION_WAIT_TIME) -> None
+    Control.SendKeys(text: str, interval: float = 0.01, waitTime: float = OPERATION_WAIT_TIME, debug: bool = False) -> None
+        to SendKeys(text: str, interval: float = 0.01, waitTime: float = OPERATION_WAIT_TIME, charMode: bool = True, debug: bool = False) -> None
+2.0.0
+    Only supports Python3.
+    Depends on modules comtypes and typing.
+    Removed class Win32API. Methods in Win32API were moved to globle scope.
+    KeyDown, KeyUp were removed, use PressKey, ReleaseKey.
+    Methods related to process were removed. Use psutil instead.
+    Controls don't inherit patterns. Use Control.GetPattern(patterId) or Control.GetXxxPattern() to get a pattern and use pattern properties or methods.
+        Because:
+        1 two patterns may have a same method name and a control may support the two patterns at the same time.
+        2 LegacyIAccessiblePattern has many properties which are same to Control's properties.
+        If GetPattern or GetXxxPattern returns None, it doesn't support the pattern.
+    Methods like IsXxxPatternAvailable were removed.
+    Value names in class SWP changed.
+    Value names in class MB changed.
+    Value names in class ModifierKey changed.
+    Class ShowWindow was renamed to SW.
+    Removed 'Func' in variable names.
+    Removed 'Dict' in variable names.
+    Control.Handle to Control.NativeWindowHandle
+    Control.BoundingRectangle doesn't return tuple, it returns class Rect, it has 4 properties left, top, right, bottom, 5 methods width()->int, height()->int, xcenter()->int, ycenter()->int and contains(x:int,y:int)->bool.
+    Control.MoveCursor to Control.MoveCursorToInnerPos
+    Control.Click(self, ratioX=0.5, ratioY=0.5, simulateMove=True, waitTime=OPERATION_WAIT_TIME): to Click(self, x: int = None, y: int = None, ratioX: float = 0.5, ratioY: float = 0.5, simulateMove: bool = True, waitTime: float = OPERATION_WAIT_TIME) -> None:
+    Control.RightClick(self, ratioX=0.5, ratioY=0.5, simulateMove=True, waitTime=OPERATION_WAIT_TIME): to RightClick(self, x: int = None, y: int = None, ratioX: float = 0.5, ratioY: float = 0.5, simulateMove: bool = True, waitTime: float = OPERATION_WAIT_TIME) -> None:
+    Control.MiddleClick(self, ratioX=0.5, ratioY=0.5, simulateMove=True, waitTime=OPERATION_WAIT_TIME): to MiddleClick(self, x: int = None, y: int = None, ratioX: float = 0.5, ratioY: float = 0.5, simulateMove: bool = True, waitTime: float = OPERATION_WAIT_TIME) -> None:
+    Control.DoubleClick(self, ratioX=0.5, ratioY=0.5, simulateMove=True, waitTime=OPERATION_WAIT_TIME): to DoubleClick(self, x: int = None, y: int = None, ratioX: float = 0.5, ratioY: float = 0.5, simulateMove: bool = True, waitTime: float = OPERATION_WAIT_TIME) -> None:
+    Control.WheelDown(self, wheelTimes=1, waitTime=OPERATION_WAIT_TIME) to WheelDown(self, wheelTimes: int = 1, interval: float = 0.05, waitTime: float = OPERATION_WAIT_TIME) -> None:
+    Control.WheelUp(self, wheelTimes=1, waitTime=OPERATION_WAIT_TIME) to WheelUp(self, wheelTimes: int = 1, interval: float = 0.05, waitTime: float = OPERATION_WAIT_TIME) -> None:
+    Control.GetTopWindow to Control.GetTopLevelControl
+    Logger.ColorfulWrite to Logger.ColorfullyWrite
+    Logger.ColorfulWriteLine to Logger.ColorfullyWriteLine
+    Logger.ColorfulLog to Logger.ColorfullyLog
+    SetGlobalSearchTimeOut to SetGlobalSearchTimeout
+    RunWithHotKey to RunByHotKey
+    

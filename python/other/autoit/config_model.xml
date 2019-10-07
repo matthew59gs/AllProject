@@ -1,0 +1,38 @@
+﻿<exe_list>
+    <exe>
+        <exename>RiskDataManage.exe</exename>
+        <path>G:\data\2.风控文件归集工具</path>
+        <ClassName>WindowsForms10.Window.8.app.0.34f5582_r6_ad1</ClassName>
+        <Depth>1</Depth>
+        <Name>风控文件归集工具 r314</Name>
+        <button>
+            <buttoninterval>5</buttoninterval>
+            <AutomationId>btnStart</AutomationId>
+            <Depth>2</Depth>
+        </button>
+        <button>
+            <buttoninterval>0</buttoninterval>
+            <AutomationId>btnExit</AutomationId>
+            <Depth>2</Depth>
+        </button>
+    </exe>
+    <exe>
+        <exename>BatchOrder.exe</exename>
+        <path>G:\data\BatchOrder-BETA</path>
+        <ClassName>WindowsForms10.Window.8.app.0.141b42a_r14_ad1</ClassName>
+        <Depth>1</Depth>
+        <Name>批量下单工具[恒生PB1.0]</Name>
+        <button>
+            <buttoninterval>0</buttoninterval>
+            <AutomationId>btnRun</AutomationId>
+            <Depth>2</Depth>
+        </button>
+    </exe>
+    <exe>
+        <exename>pbmonitor.exe</exename>
+        <path>G:\data\pbmonitor</path>
+        <ClassName>TfmMainForm</ClassName>
+        <Depth>1</Depth>
+        <Name>PB程序监控</Name>
+    </exe>
+</exe_list>

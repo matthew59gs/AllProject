@@ -1,0 +1,7 @@
+[2014-05-26 21:26:28.690] CConnectionImpl::Connect enter connect
+[2014-05-26 21:26:28.690] CConnectionImpl::Connect m_mutexForConnect
+[2014-05-26 21:26:28.690] CConnectionImpl::Connect m_mutexForRecv
+[2014-05-26 21:26:28.986] CConnectionImpl::Connect begin to connect
+[2014-05-26 21:26:28.986] CConnectionImpl::Connect connect end
+[2014-05-26 21:26:28.986] CConnectionImpl::Connect begin to select
+[2014-05-26 21:26:30.000] CConnectionImpl::Connect end select

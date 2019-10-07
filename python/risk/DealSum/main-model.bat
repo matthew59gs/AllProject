@@ -1,0 +1,1 @@
+python main.py date=[20190301,20190630] contract=[I1909] fundname=[八卦田积极A,玉皇山1号,八卦田1号] entrust_direction=[买入开仓,卖出平仓] path=D:\data\test

@@ -1,0 +1,10 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '192.168.40.203'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\gaos\Documents\project\Other\c++\UFXTest\UFXTest\main.cpp(4,21): error : Windows.h: No such file or directory
+C:\Users\gaos\Documents\project\Other\c++\UFXTest\UFXTest\main.cpp(4,21): error :  #include <Windows.h>
+C:\Users\gaos\Documents\project\Other\c++\UFXTest\UFXTest\main.cpp(4,21): error :                      ^
+C:\Users\gaos\Documents\project\Other\c++\UFXTest\UFXTest\main.cpp(4,21): error : compilation terminated.
